@@ -16,7 +16,7 @@ Course Material and FAQ for my Advanced CSS Course [Link](https://github.com/jon
 Instructor's Resource Page [Link](http://codingheroes.io/resources/)<br>
 Jonas' [Codepen](https://codepen.io/jonasschmedtmann/pens/public/)<br>
 
-![discord](discord.png)
+![discord](/assets/discord.png)
 
 Joined the [Discord discussion group](https://discordapp.com/channels/146186188783484928/146192848750903296) for the class. Password for Discord account is in email. Also downloaded and installed the Discord app for Mac.
 
