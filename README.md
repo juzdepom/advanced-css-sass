@@ -13,7 +13,13 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 *✍️Commits: ?* <br>
 
 Course Material and FAQ for my Advanced CSS Course [Link](https://github.com/jonasschmedtmann/advanced-css-course)<br>
-Instructor's Resource Page [Link](http://codingheroes.io/resources/)
+Instructor's Resource Page [Link](http://codingheroes.io/resources/)<br>
+Jonas' [Codepen](https://codepen.io/jonasschmedtmann/pens/public/)<br>
+
+### Final Version of Course Projects
+* [Natours]() - advanced CSS, Sass and responsive design
+* [Trillo]() - Flexbox
+* [Nexter]() – CSS Grid
 
 
 
