@@ -29,6 +29,10 @@ learned some really cool button animations
 (include gif here)
 check out the classes ```btn btn-white btn-animated``` in ```style.css```
 
+took a 30 min break after initial pomodoro
+7:40 am - break
+starting again
+
 ### Section 3: How CSS Works: A Look Behind the Scenes
 #### Three Pillars of Writing Good HTML and CSS (Lecture 12)
 1. Responsive Design
@@ -53,7 +57,7 @@ check out the classes ```btn btn-white btn-animated``` in ```style.css```
 * less images
 * compress images
 
-#### Lecture 13 [link](https://www.udemy.com/advanced-css-and-sass/learn/v4/t/lecture/8274422?start=0) - How CSS Works Behind the Scenes: An Overview<br>
+#### [Lecture 13](https://www.udemy.com/advanced-css-and-sass/learn/v4/t/lecture/8274422?start=0) - How CSS Works Behind the Scenes: An Overview<br>
 
 What actually happens to our CSS code when we load up a certain web page in a browser?
 
@@ -65,11 +69,28 @@ CSS Terminology
 
 How the Cascade resolves conflicts
 
-![cssterm](/assets/session2/cascade.png)
+![cascade](/assets/session2/cascade.png)
 
 Most important takeaways
 
-![cssterm](/assets/session2/takeaway.png)
+![takeaway](/assets/session2/takeaway.png)
+
+How CSS values are processed
+
+![process](/assets/session2/process.png)
+
+How units are converted from relative to absolute (px)
+
+![unit](/assets/session2/unit.png)
+
+CSS Value Processing: What You Need To Know
+
+![summary](/assets/session2/summary.png)
+
+
+
+
+
 
 
 ## Session 1
