@@ -42,6 +42,8 @@ another huge thing I'm going to change with regards to my coding: I'm now going 
 
 ### Section 4: Introduction to Sass and NPM
 
+Need to run ```npm run compile:sass``` in terminal. Watch [Lecture 27](https://www.udemy.com/advanced-css-and-sass/learn/v4/t/lecture/8274462?start=829) to learn how to install Sass and [Lecture 28](https://www.udemy.com/advanced-css-and-sass/learn/v4/t/lecture/8274464?start=0) to learn how to compile Sass in local project.
+
 #### Main Sass Features
 
 ![sass](/assets/session2/sass.png)
