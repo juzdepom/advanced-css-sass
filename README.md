@@ -71,7 +71,7 @@ How the Cascade resolves conflicts
 
 ![cascade](/assets/session2/cascade.png)
 
-Most important takeaways
+Most important Cascade and Speciftakeaways
 
 ![takeaway](/assets/session2/takeaway.png)
 
@@ -86,6 +86,11 @@ How units are converted from relative to absolute (px)
 CSS Value Processing: What You Need To Know
 
 ![summary](/assets/session2/summary.png)
+
+Inheritance: What You Need To Know
+
+![inheritance](/assets/session2/inheritance.png)
+
 
 
 
