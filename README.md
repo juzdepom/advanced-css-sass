@@ -39,6 +39,10 @@ starting again
 
 another huge thing I'm going to change with regards to my coding: I'm now going to use REMS instead of PX (this is Lecture 18 - Commit 7)
 
+### Section 4: Introduction to Sass and NPM
+
+
+
 ### Section 3: How CSS Works: A Look Behind the Scenes
 #### Three Pillars of Writing Good HTML and CSS (Lecture 12)
 1. Responsive Design
@@ -109,15 +113,6 @@ Positioning Schemes
 Building with meaningful class names
 ![classnames](/assets/session2/classnames.png)
 
-
-
-
-
-
-
-
-
-
 ## Session 1
 
 *🗓 S, Nov 17, 2018* <br>
@@ -127,8 +122,6 @@ Building with meaningful class names
 *💬Lectures: 1-7* <br>
 *📗Progress: 5%* <br>
 *📱Instagram  Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
-
-
 
 * Downloaded the starter project for the [Natours](https://natours.netlify.com/) project.
 * *(Lecture 6: Building the Header - Part 1)* Learned about [Clippy](https://bennettfeely.com/clippy/) – CSS clip-path maker
