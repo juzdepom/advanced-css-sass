@@ -48,30 +48,10 @@ another huge thing I'm going to change with regards to my coding: I'm now going 
 
 
 ### Section 3: How CSS Works: A Look Behind the Scenes
-#### Three Pillars of Writing Good HTML and CSS (Lecture 12)
-1. Responsive Design
-* Fluid layouts
-* Media queries
-* Responsive images
-* Correct units
-* Desktop-first vs. mobile-first
-2. Maintainable and scalable code
-* clean
-* easy-to-understand
-* growth
-* reusable
-* how to organize files
-* how to name classes
-* how to structure HTML
-3. Web Performance
-* Less HTTP requests
-* Less code
-* compress code
-* use a CSS preprocessor (like Sass)
-* less images
-* compress images
 
-#### [Lecture 13](https://www.udemy.com/advanced-css-and-sass/learn/v4/t/lecture/8274422?start=0) - How CSS Works Behind the Scenes: An Overview<br>
+Three Pillars of Writing Good HTML and CSS (Lecture 12)
+
+![3 pillars](/assets/session2/3-pillars.png)
 
 What actually happens to our CSS code when we load up a certain web page in a browser?
 
