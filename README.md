@@ -15,12 +15,13 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 *✍️Commits: ?* <br>
 *💬Lectures: 7-?* <br>
 *Progress: ?* <br>
-*📱Instagram Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
+*📱Instagram Post Link* <br>
 
 *💭Thoughts on this study session:*
-* studying for this long makes it inefficient. I shouldn't have skipped morning training. Next time I want to try going to morning training, then going to the library.
+* shouldn't have skipped morning training
 * avoid studying at home (except in the early mornings) because 1. will snack from the fridge 2. higher likelihood of falling back asleep on the couch.
 
+learned a behind the scenes knowledge from section 3. 
 
 learned more about positioning;
 position: absolute (I didn't understand this super well before)
@@ -41,6 +42,9 @@ another huge thing I'm going to change with regards to my coding: I'm now going 
 
 ### Section 4: Introduction to Sass and NPM
 
+#### Main Sass Features
+
+![sass](/assets/session2/sass.png)
 
 
 ### Section 3: How CSS Works: A Look Behind the Scenes
