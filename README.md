@@ -2,7 +2,7 @@
 
 by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
-![course](/assets/course.png)
+<a href="#">![course](/assets/course.png)</a>
 
 ## All Sessions
 * [Session 2](#session-2)
