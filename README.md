@@ -4,13 +4,9 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
 ## insert image for course here
 
-<hr>
-
 ## All Sessions
 * [Session 2](#session-2)
 * [Session 1](#session-1)
-
-<hr>
 
 ## Session 2
 *🗓 T, Nov 19, 2018* <br>
