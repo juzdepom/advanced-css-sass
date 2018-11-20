@@ -11,10 +11,10 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 ## Session 2
 *🗓 T, Nov 19, 2018* <br>
 *📍 Home + Haddon Township Library* <br>
-*🕐 5am-?(interspersed with breaks)*  <br>
-*✍️Commits: ?* <br>
-*💬Lectures: 8-?* <br>
-*Progress: ?* <br>
+*🕐 5am-4pm(interspersed with breaks)*  <br>
+*✍️Commits: 4-13* <br>
+*💬Lectures: 8-34* <br>
+*Progress: 26% COMPLETED?* <br>
 *📱Instagram Post Link* <br>
 
 *💭Thoughts on this study session:*
