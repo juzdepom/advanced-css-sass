@@ -18,7 +18,7 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 *📱Instagram Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
 
 *💭Thoughts on this study session:*
-* studying for this long makes it inefficient. I shouldn't have skipped morning training. Next time I want to try going to morning training, then going to the library
+* studying for this long makes it inefficient. I shouldn't have skipped morning training. Next time I want to try going to morning training, then going to the library.
 * avoid studying at home (except in the early mornings) because 1. will snack from the fridge 2. higher likelihood of falling back asleep on the couch.
 
 
@@ -105,6 +105,9 @@ Box Types
 
 Positioning Schemes
 ![position](/assets/session2/position.png)
+
+Building with meaningful class names
+![classnames](/assets/session2/classnames.png)
 
 
 
