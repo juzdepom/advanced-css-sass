@@ -4,19 +4,31 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
 ## insert image for course here
 
+## Session 2
+*🗓 T, Nov 19, 2018* <br>
+*📍 Home* <br>
+*🕐 5am-?  <br>
+*✍️Commits: ?* <br>
+*💬Lectures: 7-?* <br>
+*📱Instagram Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
+
 
 ## Session 1
 
 *🗓 S, Nov 17, 2018* <br>
 *📍 Haddon Township Library* <br>
 *🕐 2:50pm-5pm (2h10min) <br>
-*✍️Commits: ?* <br>
+*✍️Commits: 1,2* <br>
+*💬Lectures: 1-7* <br>
+*📱Instagram Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
 
-Downloaded the starter project for the [Natours](https://natours.netlify.com/) project.
+* Downloaded the starter project for the [Natours](https://natours.netlify.com/) project.
+* *(Lecture 6: Building the Header - Part 1)* Learned about [Clippy](https://bennettfeely.com/clippy/) – CSS clip-path maker
 
 Course Material and FAQ for my Advanced CSS Course [Link](https://github.com/jonasschmedtmann/advanced-css-course)<br>
 Instructor's Resource Page [Link](http://codingheroes.io/resources/)<br>
 Jonas' [Codepen](https://codepen.io/jonasschmedtmann/pens/public/)<br>
+VSCode [setup](https://github.com/jonasschmedtmann/advanced-css-course/blob/master/vscode-setup.md) used in the course<br>
 
 ![discord](/assets/discord.png)
 
