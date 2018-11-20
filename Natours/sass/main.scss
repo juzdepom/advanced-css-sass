@@ -58,24 +58,25 @@ body {
     position: relative;
 
     clip-path: polygon(0 0, 100% 0, 100% 74%, 0 100%);
-}
 
-.header__logo-box {
-    position: absolute;
-    top: 4rem;
-    left: 4rem;
-}
+    &__logo-box {
+        position: absolute;
+        top: 4rem;
+        left: 4rem;
+    }
 
-.header__logo {
-    height: 3.5rem;
-}
+    &__logo {
+        height: 3.5rem;
+    }
 
-.header__text-box {
-    position: absolute;
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
+    &__text-box {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+
 }
 
 .heading-primary {
@@ -215,7 +216,7 @@ body {
 }
 
 /* .75s represents the animation delay */
-.btn--animated {
+.btn-animated {
     animation: moveInBottom .5s ease-out .75s;
     /*helps apply the properties before the animation starts */
     /* without this, the button wouldn't be hidden */
