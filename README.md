@@ -2,7 +2,7 @@
 
 by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
-## insert image for course here
+<a href="https://www.udemy.com/advanced-css-and-sass/" target="_blank">![course](/assets/course.png)</a>
 
 ## All Sessions
 * [Session 2](#session-2)
@@ -15,12 +15,13 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 *✍️Commits: ?* <br>
 *💬Lectures: 7-?* <br>
 *Progress: ?* <br>
-*📱Instagram Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
+*📱Instagram Post Link* <br>
 
 *💭Thoughts on this study session:*
-* studying for this long makes it inefficient. I shouldn't have skipped morning training. Next time I want to try going to morning training, then going to the library
+* shouldn't have skipped morning training
 * avoid studying at home (except in the early mornings) because 1. will snack from the fridge 2. higher likelihood of falling back asleep on the couch.
 
+learned a behind the scenes knowledge from section 3. 
 
 learned more about positioning;
 position: absolute (I didn't understand this super well before)
@@ -39,31 +40,22 @@ starting again
 
 another huge thing I'm going to change with regards to my coding: I'm now going to use REMS instead of PX (this is Lecture 18 - Commit 7)
 
-### Section 3: How CSS Works: A Look Behind the Scenes
-#### Three Pillars of Writing Good HTML and CSS (Lecture 12)
-1. Responsive Design
-* Fluid layouts
-* Media queries
-* Responsive images
-* Correct units
-* Desktop-first vs. mobile-first
-2. Maintainable and scalable code
-* clean
-* easy-to-understand
-* growth
-* reusable
-* how to organize files
-* how to name classes
-* how to structure HTML
-3. Web Performance
-* Less HTTP requests
-* Less code
-* compress code
-* use a CSS preprocessor (like Sass)
-* less images
-* compress images
+### Section 4: Introduction to Sass and NPM
 
-#### [Lecture 13](https://www.udemy.com/advanced-css-and-sass/learn/v4/t/lecture/8274422?start=0) - How CSS Works Behind the Scenes: An Overview<br>
+#### Main Sass Features
+
+![sass](/assets/session2/sass.png)
+
+#### Introduction to Sass [Codepen](https://codepen.io/juzdepomme/pen/xQpRqa?editors=1100)
+![sass-intro-codepen](/assets/session2/sass-intro-codepen.png)
+
+
+
+### Section 3: How CSS Works: A Look Behind the Scenes
+
+Three Pillars of Writing Good HTML and CSS (Lecture 12)
+
+![3 pillars](/assets/session2/3-pillars.png)
 
 What actually happens to our CSS code when we load up a certain web page in a browser?
 
@@ -106,14 +98,8 @@ Box Types
 Positioning Schemes
 ![position](/assets/session2/position.png)
 
-
-
-
-
-
-
-
-
+Building with meaningful class names
+![classnames](/assets/session2/classnames.png)
 
 ## Session 1
 
@@ -124,8 +110,6 @@ Positioning Schemes
 *💬Lectures: 1-7* <br>
 *📗Progress: 5%* <br>
 *📱Instagram  Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
-
-
 
 * Downloaded the starter project for the [Natours](https://natours.netlify.com/) project.
 * *(Lecture 6: Building the Header - Part 1)* Learned about [Clippy](https://bennettfeely.com/clippy/) – CSS clip-path maker
