@@ -107,14 +107,6 @@ Positioning Schemes
 ![position](/assets/session2/position.png)
 
 
-
-
-
-
-
-
-
-
 ## Session 1
 
 *🗓 S, Nov 17, 2018* <br>
