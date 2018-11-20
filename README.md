@@ -46,6 +46,10 @@ another huge thing I'm going to change with regards to my coding: I'm now going 
 
 ![sass](/assets/session2/sass.png)
 
+#### Introduction to Sass [Codepen](https://codepen.io/juzdepomme/pen/xQpRqa?editors=1100)
+![sass-intro-codepen](/assets/session2/sass-intro-codepen.png)
+
+
 
 ### Section 3: How CSS Works: A Look Behind the Scenes
 
