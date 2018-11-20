@@ -13,7 +13,7 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 *📍 Home + Haddon Township Library* <br>
 *🕐 5am-?(interspersed with breaks)*  <br>
 *✍️Commits: ?* <br>
-*💬Lectures: 7-?* <br>
+*💬Lectures: 8-?* <br>
 *Progress: ?* <br>
 *📱Instagram Post Link* <br>
 
@@ -21,7 +21,7 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 * shouldn't have skipped morning training
 * avoid studying at home (except in the early mornings) because 1. will snack from the fridge 2. higher likelihood of falling back asleep on the couch.
 
-learned a behind the scenes knowledge from section 3. 
+learned a behind the scenes knowledge from section 3.
 
 learned more about positioning;
 position: absolute (I didn't understand this super well before)

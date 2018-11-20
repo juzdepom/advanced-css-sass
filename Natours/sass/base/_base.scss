@@ -1,0 +1,20 @@
+/* setting cross browser defaults */
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+
+    /* tbh not sure what this does, this is just supposed to be good practice */
+    box-sizing: inherit;
+}
+
+html {
+    // this defines what 1rem is -- the default font size is 16px; we're changing it to 10px with a percentage;
+    font-size: 62.5%;
+}
+
+body {
+    /* tbh not sure what this does, this is just supposed to be good practice */
+    box-sizing: border-box;
+}

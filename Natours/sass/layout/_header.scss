@@ -1,0 +1,71 @@
+.header {
+    /* 95% of the viewport height */
+    height: 95vh;
+    background-image:
+        linear-gradient(
+            to right bottom,
+            rgba($color-primary-light,0.8),
+            rgba($color-primary-dark, 0.8)
+            ),
+            url(../img/hero.jpg);
+    background-size: cover;
+    /* image will always stay at top of the background even as browser is resized */
+    background-position: top;
+    position: relative;
+
+    clip-path: polygon(0 0, 100% 0, 100% 74%, 0 100%);
+
+    &__logo-box {
+        position: absolute;
+        top: 4rem;
+        left: 4rem;
+    }
+
+    &__logo {
+        height: 3.5rem;
+    }
+
+    &__text-box {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+
+}
+
+.heading-primary {
+    color: $color-white;
+    text-transform: uppercase;
+
+    /* this solves a small animation bug */
+    backface-visibility: hidden;
+    margin-bottom: 60px;
+
+    &--main {
+        /* block occupies 100% of the width */
+        display: block;
+        font-size: 6rem;
+        font-weight: 400;
+        letter-spacing: 3.5rem;
+
+        animation-name: moveInLeft;
+        animation-duration: 1s;
+        animation-timing-function: ease-out;
+
+        /* other cool animation properties */
+        /* animation-delay: 3s;
+        animation-iteration-count: 3; */
+    }
+
+    &--sub {
+        display: block;
+        font-size: 2rem;
+        font-weight: 700;
+        letter-spacing: 1.74rem;
+
+        /* more efficient way */
+        animation: moveInRight 1s ease-out;
+    }
+}
