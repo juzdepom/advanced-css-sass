@@ -10,7 +10,16 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 *🕐 5am-?  <br>
 *✍️Commits: ?* <br>
 *💬Lectures: 7-?* <br>
+*Progress: ?* <br>
 *📱Instagram Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
+
+
+learned more about positioning;
+position: absolute (I didn't understand this super well before)
+learned more about css animations..
+@keyframes (never used this before)
+transform: translate() for animations
+learn about pseudo elements and pseudo classes
 
 
 ## Session 1
@@ -18,9 +27,10 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 *🗓 S, Nov 17, 2018* <br>
 *📍 Haddon Township Library* <br>
 *🕐 2:50pm-5pm (2h10min) <br>
-*✍️Commits: 1,2* <br>
+*✍️Commits: 1,2,3* <br>
 *💬Lectures: 1-7* <br>
-*📱Instagram Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
+*📗Progress: 5%* <br>
+*📱Instagram  Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
 
 * Downloaded the starter project for the [Natours](https://natours.netlify.com/) project.
 * *(Lecture 6: Building the Header - Part 1)* Learned about [Clippy](https://bennettfeely.com/clippy/) – CSS clip-path maker
