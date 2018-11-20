@@ -2,7 +2,7 @@
 
 by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
-<a href="https://www.udemy.com/advanced-css-and-sass/">![course](/assets/course.png)</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/advanced-css-and-sass/">![course](/assets/course.png)</a>
 
 ## All Sessions
 * [Session 2](#session-2)
