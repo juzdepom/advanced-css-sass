@@ -21,6 +21,34 @@ learned more about css animations..
 transform: translate() for animations
 learn about pseudo elements and pseudo classes
 
+learned some really cool button animations
+(include gif here)
+check out the classes ```btn btn-white btn-animated``` in ```style.css```
+
+### How CSS Works: A Look Behind the Scenes
+Three Pillars of Writing Good HTML and CSS (Lecture 12)
+1. Responsive Design
+* Fluid layouts
+* Media queries
+* Responsive images
+* Correct units
+* Desktop-first vs. mobile-first
+2. Maintainable and scalable code
+* clean
+* easy-to-understand
+* growth
+* reusable
+* how to organize files
+* how to name classes
+* how to structure HTML
+3. Web Performance
+* Less HTTP requests
+* Less code
+* compress code
+* use a CSS preprocessor
+* less images
+* compress images
+
 
 ## Session 1
 
