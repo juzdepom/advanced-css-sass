@@ -8,14 +8,18 @@ Dark green: #28b485
 */
 
 /* setting cross browser defaults */
-* {
+*,
+*::after,
+*::before {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+
+    /* tbh not sure what this does, this is just supposed to be good practice */
+    box-sizing: inherit;
 }
 
 html {
-    font-size: 10px;
+    font-size: 62.5%;
 }
 
 body {
@@ -26,6 +30,9 @@ body {
     line-height: 1.7;
     color: #777;
     padding: 3rem;
+
+    /* tbh not sure what this does, this is just supposed to be good practice */
+    box-sizing: border-box;
 }
 
 .header {

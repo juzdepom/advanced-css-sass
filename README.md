@@ -10,12 +10,16 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
 ## Session 2
 *🗓 T, Nov 19, 2018* <br>
-*📍 Home* <br>
-*🕐 5am-?  <br>
+*📍 Home + Haddon Township Library* <br>
+*🕐 5am-?(interspersed with breaks)*  <br>
 *✍️Commits: ?* <br>
 *💬Lectures: 7-?* <br>
 *Progress: ?* <br>
 *📱Instagram Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
+
+*💭Thoughts on this study session:*
+* studying for this long makes it inefficient. I shouldn't have skipped morning training. Next time I want to try going to morning training, then going to the library
+* avoid studying at home (except in the early mornings) because 1. will snack from the fridge 2. higher likelihood of falling back asleep on the couch.
 
 
 learned more about positioning;
@@ -32,6 +36,8 @@ check out the classes ```btn btn-white btn-animated``` in ```style.css```
 took a 30 min break after initial pomodoro
 7:40 am - break
 starting again
+
+another huge thing I'm going to change with regards to my coding: I'm now going to use REMS instead of PX (this is Lecture 18 - Commit 7)
 
 ### Section 3: How CSS Works: A Look Behind the Scenes
 #### Three Pillars of Writing Good HTML and CSS (Lecture 12)
@@ -91,6 +97,17 @@ Inheritance: What You Need To Know
 
 ![inheritance](/assets/session2/inheritance.png)
 
+Visual Formatting Model
+![vfm](/assets/session2/vfm.png)
+
+Box Types
+![box types](/assets/session2/box-types.png)
+
+Positioning Schemes
+![position](/assets/session2/position.png)
+
+
+
 
 
 
@@ -107,6 +124,8 @@ Inheritance: What You Need To Know
 *💬Lectures: 1-7* <br>
 *📗Progress: 5%* <br>
 *📱Instagram  Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
+
+
 
 * Downloaded the starter project for the [Natours](https://natours.netlify.com/) project.
 * *(Lecture 6: Building the Header - Part 1)* Learned about [Clippy](https://bennettfeely.com/clippy/) – CSS clip-path maker
