@@ -4,6 +4,14 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
 ## insert image for course here
 
+<hr>
+
+## All Sessions
+* [Session 2](#session-2)
+* [Session 1](#session-1)
+
+<hr>
+
 ## Session 2
 *🗓 T, Nov 19, 2018* <br>
 *📍 Home* <br>
@@ -25,8 +33,8 @@ learned some really cool button animations
 (include gif here)
 check out the classes ```btn btn-white btn-animated``` in ```style.css```
 
-### How CSS Works: A Look Behind the Scenes
-Three Pillars of Writing Good HTML and CSS (Lecture 12)
+### Section 3: How CSS Works: A Look Behind the Scenes
+#### Three Pillars of Writing Good HTML and CSS (Lecture 12)
 1. Responsive Design
 * Fluid layouts
 * Media queries
@@ -45,16 +53,34 @@ Three Pillars of Writing Good HTML and CSS (Lecture 12)
 * Less HTTP requests
 * Less code
 * compress code
-* use a CSS preprocessor
+* use a CSS preprocessor (like Sass)
 * less images
 * compress images
+
+#### Lecture 13 [link](https://www.udemy.com/advanced-css-and-sass/learn/v4/t/lecture/8274422?start=0) - How CSS Works Behind the Scenes: An Overview<br>
+
+What actually happens to our CSS code when we load up a certain web page in a browser?
+
+![rendercss](/assets/session2/rendercss.png)
+
+CSS Terminology
+
+![cssterm](/assets/session2/cssterm.png)
+
+How the Cascade resolves conflicts
+
+![cssterm](/assets/session2/cascade.png)
+
+Most important takeaways
+
+![cssterm](/assets/session2/takeaway.png)
 
 
 ## Session 1
 
 *🗓 S, Nov 17, 2018* <br>
 *📍 Haddon Township Library* <br>
-*🕐 2:50pm-5pm (2h10min) <br>
+*🕐 2:50pm-5pm (2h10min)* <br>
 *✍️Commits: 1,2,3* <br>
 *💬Lectures: 1-7* <br>
 *📗Progress: 5%* <br>
@@ -68,7 +94,7 @@ Instructor's Resource Page [Link](http://codingheroes.io/resources/)<br>
 Jonas' [Codepen](https://codepen.io/jonasschmedtmann/pens/public/)<br>
 VSCode [setup](https://github.com/jonasschmedtmann/advanced-css-course/blob/master/vscode-setup.md) used in the course<br>
 
-![discord](/assets/discord.png)
+![discord](/assets/session1/discord.png)
 
 Joined the [Discord discussion group](https://discordapp.com/channels/146186188783484928/146192848750903296) for the class. Password for Discord account is in email. Also downloaded and installed the Discord app for Mac.
 
