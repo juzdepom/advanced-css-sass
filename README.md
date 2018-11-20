@@ -2,7 +2,7 @@
 
 by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
-## insert image for course here
+![course](/assets/course.png)
 
 ## All Sessions
 * [Session 2](#session-2)
