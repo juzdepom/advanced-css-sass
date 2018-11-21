@@ -11,11 +11,18 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 ## Session 3
 *🗓 W, Nov 20, 2018* <br>
 *📍 Home* <br>
-*🕐 5am-?*  <br>
-*✍️Commits: 14-?* <br>
-*💬Lectures: 34* <br>
-*📶Progress: 26% Complete* <br>
-*📱Instagram Post [Link](https://www.instagram.com/p/BqaywmFBPIM/)* <br>
+*🕐 5am-XX*  <br>
+*✍️Commits: 14-XX* <br>
+*💬Lectures: 34-XX* <br>
+*📶Progress: XX Complete* <br>
+*📱Instagram Post Link* <br>
+
+### Accomplished during this Session
+
+* ✅ (37 min - Lec 34) Building a Custom Grid with Floats<br>
+* ✅ (23 min - Lec 35) Building the About Section Part 1 –– in this lecture we learn how to think about components, how and why to use utility class, how to use the ```background-clip``` property, how to ```transform``` multiple properties simulatenously, how to use the ```outline-offset``` property together with ```outline```, how to style elements that are NOT hovered while others are.<br>
+
+### Section 5: Natours Project –– Using Advanced CSS and Sass (Part 2)
 
 ## Session 2
 *🗓 T, Nov 19, 2018* <br>
