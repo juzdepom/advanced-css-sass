@@ -11,13 +11,13 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
 ## Session 3
 *🗓 W, Nov 20, 2018* <br>
-*📍 Home* <br>
-*🕐 5am-7:10am*  <br>
-*✍️Commits: 14-16* <br>
+*📶Progress: 30% Complete (8.4/28 hours)* <br>
+*⏰Lecture Hours: 1h 40min*<br>
 *💬Lectures: 34-37* <br>
-*📶Progress: 30% Complete* <br>
-*⏰Lecture Hours: 1h 40min<br>
+*🕐 5am-7:10am*  <br>
+*📍 Home* <br>
 *📱Instagram Post Link* <br>
+*✍️Commits: 14-16* <br>
 
 ### Accomplished during this Session
 
