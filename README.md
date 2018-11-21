@@ -14,31 +14,19 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 *🕐 5am-4pm(interspersed with breaks)*  <br>
 *✍️Commits: 4-13* <br>
 *💬Lectures: 8-34* <br>
-*Progress: 26% COMPLETED?* <br>
-*📱Instagram Post Link* <br>
+*Progress: 26% Complete* <br>
+*📱Instagram Post [Link](https://www.instagram.com/p/BqaywmFBPIM/)* <br>
 
-*💭Thoughts on this study session:*
-* shouldn't have skipped morning training
-* avoid studying at home (except in the early mornings) because 1. will snack from the fridge 2. higher likelihood of falling back asleep on the couch.
+### Most important takeaways from today's learning session
+➡️ TERMINOLOGY: Learned the CSS terminology (selector, declaration block, declaration, property, declared value)
+➡️ ANIMATIONS: @keyframe and transform property animations (learned some really cool button animations!)
+➡️ PSEUDO: pseudo elements and pseudo classes (e.g. ::after + :visited)
+➡️ REMs: instead of using px I'm now going to try to only use rem for determining sizes
+➡️ SASS: learned the fundamentals of SASS
 
-learned a behind the scenes knowledge from section 3.
-
-learned more about positioning;
-position: absolute (I didn't understand this super well before)
-learned more about css animations..
-@keyframes (never used this before)
-transform: translate() for animations
-learn about pseudo elements and pseudo classes
-
-learned some really cool button animations
-(include gif here)
-check out the classes ```btn btn-white btn-animated``` in ```style.css```
-
-took a 30 min break after initial pomodoro
-7:40 am - break
-starting again
-
-another huge thing I'm going to change with regards to my coding: I'm now going to use REMS instead of PX (this is Lecture 18 - Commit 7)
+*💭what needs to be optimized/changd next learning session:*
+* in the future, always go to morning training--why? library doesn't open until 10am and in btw the time that YY goes to work and 10am you snack🍫
+* in the future, avoid studying at home🏡 (except 4am-7am)--why? 1. will snack from fridge 2. high likelihood of falling  asleep on couch.
 
 ### Section 4: Introduction to Sass and NPM
 
