@@ -8,20 +8,29 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 * [Session 2](#session-2)
 * [Session 1](#session-1)
 
+## Session 3
+*🗓 W, Nov 20, 2018* <br>
+*📍 Home* <br>
+*🕐 5am-?*  <br>
+*✍️Commits: 14-?* <br>
+*💬Lectures: 34* <br>
+*📶Progress: 26% Complete* <br>
+*📱Instagram Post [Link](https://www.instagram.com/p/BqaywmFBPIM/)* <br>
+
 ## Session 2
 *🗓 T, Nov 19, 2018* <br>
 *📍 Home + Haddon Township Library* <br>
 *🕐 5am-4pm(interspersed with breaks)*  <br>
 *✍️Commits: 4-13* <br>
-*💬Lectures: 8-34* <br>
-*Progress: 26% Complete* <br>
+*💬Lectures: 8-33* <br>
+*📶Progress: 26% Complete* <br>
 *📱Instagram Post [Link](https://www.instagram.com/p/BqaywmFBPIM/)* <br>
 
 ### Most important takeaways from today's learning session
-➡️ TERMINOLOGY: Learned the CSS terminology (selector, declaration block, declaration, property, declared value)
-➡️ ANIMATIONS: @keyframe and transform property animations (learned some really cool button animations!)
-➡️ PSEUDO: pseudo elements and pseudo classes (e.g. ::after + :visited)
-➡️ REMs: instead of using px I'm now going to try to only use rem for determining sizes
+➡️ TERMINOLOGY: Learned the CSS terminology (selector, declaration block, declaration, property, declared value)<br>
+➡️ ANIMATIONS: @keyframe and transform property animations (learned some really cool button animations!)<br>
+➡️ PSEUDO: pseudo elements and pseudo classes (e.g. ::after + :visited)<br>
+➡️ REMs: instead of using px I'm now going to try to only use rem for determining sizes<br>
 ➡️ SASS: learned the fundamentals of SASS
 
 *💭what needs to be optimized/changd next learning session:*
@@ -98,7 +107,7 @@ Building with meaningful class names
 *🕐 2:50pm-5pm (2h10min)* <br>
 *✍️Commits: 1,2,3* <br>
 *💬Lectures: 1-7* <br>
-*📗Progress: 5%* <br>
+*📶PProgress: 5%* <br>
 *📱Instagram  Post [Link](https://www.instagram.com/p/BqUd9bwBoN5/)* <br>
 
 * Downloaded the starter project for the [Natours](https://natours.netlify.com/) project.
