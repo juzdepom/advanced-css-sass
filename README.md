@@ -5,6 +5,7 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 <a href="https://www.udemy.com/advanced-css-and-sass/" target="_blank">![course](/assets/course.png)</a>
 
 ## All Sessions
+* [Session 3](#session-3)
 * [Session 2](#session-2)
 * [Session 1](#session-1)
 
