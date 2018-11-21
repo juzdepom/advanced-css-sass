@@ -11,10 +11,11 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 ## Session 3
 *🗓 W, Nov 20, 2018* <br>
 *📍 Home* <br>
-*🕐 5am-XX*  <br>
-*✍️Commits: 14-XX* <br>
-*💬Lectures: 34-XX* <br>
-*📶Progress: XX Complete* <br>
+*🕐 5am-7:10am*  <br>
+*✍️Commits: 14-16* <br>
+*💬Lectures: 34-37* <br>
+*📶Progress: 30% Complete* <br>
+*⏰Lecture Hours: 1h 40min<br>
 *📱Instagram Post Link* <br>
 
 ### Accomplished during this Session
@@ -23,9 +24,8 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 * ✅ (23 min - Lec 35) Building the About Section Part 1 –– in this lecture we learn how to think about components, how and why to use utility class, how to use the ```background-clip``` property, how to ```transform``` multiple properties simulatenously, how to use the ```outline-offset``` property together with ```outline```, how to style elements that are NOT hovered while others are.<br>
 * ✅ (22 min - Lec 36) Building the About Section Part 2<br>
 * ✅ (18 min - Lec 37) Building the About Section Part 3<br>
+* ⏰ Total Time: 100 min → 1h 40 min<br>
 
-
-### Section 5: Natours Project –– Using Advanced CSS and Sass (Part 2)
 
 ## Session 2
 *🗓 T, Nov 19, 2018* <br>
