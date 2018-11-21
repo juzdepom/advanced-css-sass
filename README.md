@@ -21,7 +21,9 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
 * ✅ (37 min - Lec 34) Building a Custom Grid with Floats<br>
 * ✅ (23 min - Lec 35) Building the About Section Part 1 –– in this lecture we learn how to think about components, how and why to use utility class, how to use the ```background-clip``` property, how to ```transform``` multiple properties simulatenously, how to use the ```outline-offset``` property together with ```outline```, how to style elements that are NOT hovered while others are.<br>
-* ✅ (21 min - Lec 36) Building the About Section Part 2<br>
+* ✅ (22 min - Lec 36) Building the About Section Part 2<br>
+* ✅ (18 min - Lec 37) Building the About Section Part 3<br>
+
 
 ### Section 5: Natours Project –– Using Advanced CSS and Sass (Part 2)
 
