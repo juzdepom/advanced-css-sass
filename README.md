@@ -29,6 +29,7 @@ Convert to GIF [here](https://ezgif.com/optimize)
 ### Accomplished during this Session
 
 * ✅ (31 min - Lec 38) Building the Features Section<br>
+Downloaded icon set from [lineao.io](http://linea.io/). Note: using PNGs is bad practice for icons. Instead you want to either use fonts or SVGs.
 * ⏰ Total Time: XX → XX<br>
 
 ## Session 3
