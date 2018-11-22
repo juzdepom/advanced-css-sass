@@ -35,7 +35,7 @@ Convert to GIF [here](https://ezgif.com/optimize)
 Downloaded icon set from [lineao.io](http://linea.io/). Note: using PNGs is bad practice for icons. Instead you want to either use fonts or SVGs.
 Learned a bit more about transforms.<br>
 * ✅ (26 min - Lec 39) Building the Features Section<br>
-We're going to learn how to build an amazing rotating card, to to use ```perspective``` in CSS, how to use the ```backface-visibility``` property, how to to background blend modes, and how and when to use ```box-decoration-break```<br>
+Note to self. It is **very** important to remember the ```;``` in writing SCSS files. Otherwise, the changes aren't shown aand no errors are thrown.
 
 * ⏰ Total Time: XX → XX<br>
 
