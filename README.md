@@ -10,6 +10,9 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 * [Session 2](#session-2)
 * [Session 1](#session-1)
 
+### How to get Sass compiling locally
+* ```npm run compile:sass``` (check package.json)
+
 ### GIF reqs
 Convert to GIF [here](https://ezgif.com/optimize)
 * Optimize by 200
@@ -30,6 +33,10 @@ Convert to GIF [here](https://ezgif.com/optimize)
 
 * ✅ (31 min - Lec 38) Building the Features Section<br>
 Downloaded icon set from [lineao.io](http://linea.io/). Note: using PNGs is bad practice for icons. Instead you want to either use fonts or SVGs.
+Learned a bit more about transforms.<br>
+* ✅ (26 min - Lec 39) Building the Features Section<br>
+We're going to learn how to build an amazing rotating card, to to use ```perspective``` in CSS, how to use the ```backface-visibility``` property, how to to background blend modes, and how and when to use ```box-decoration-break```<br>
+
 * ⏰ Total Time: XX → XX<br>
 
 ## Session 3
