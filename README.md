@@ -50,8 +50,10 @@ Downloaded icon set from [lineao.io](http://linea.io/). Note: using PNGs is bad 
 Learned a bit more about transforms.<br>
 * ✅ (26 min - Lec 39) Building the Tours Section - Part 1<br>
 Note to self. It is **very** important to remember the ```;``` in writing SCSS files. Otherwise, the changes aren't shown aand no errors are thrown.
+* ⏰ Total Time: 57min <br>
 
-* ⏰ Total Time: XX → XX<br>
+![Session4Gif](/assets/session4/session4.gif)
+
 
 ## Session 3
 *🗓 W, Nov 20, 2018* <br>
