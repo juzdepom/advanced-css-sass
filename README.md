@@ -5,6 +5,7 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 <a href="https://www.udemy.com/advanced-css-and-sass/" target="_blank">![course](/assets/course.png)</a>
 
 ## All Sessions
+* [Session 5](#session-5)
 * [Session 4](#session-4)
 * [Session 3](#session-3)
 * [Session 2](#session-2)
@@ -18,9 +19,8 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * Optimize by 200
 * Reduce size to 40% of original
 
-
-## Session 4
-*🗓 Th, Nov 21, 2018* <br>
+## Session 5
+*🗓 XX* <br>
 *📶Progress: XX* <br>
 *⏰Lecture Hours: XX*<br>
 *💬Lectures: 38-XX* <br>
@@ -31,10 +31,24 @@ Convert to GIF [here](https://ezgif.com/optimize)
 
 ### Accomplished during this Session
 
+* ✅ (31 min min - Lec 38) Building the Tours Section - Part 2<br>
+xxx
+
+## Session 4
+*🗓 Th, Nov 21, 2018* <br>
+*📶Progress: 32%* <br>
+*⏰Lecture Hours: 57 min*<br>
+*💬Lectures: 38-40* <br>
+*🕐 6:20am-noon*  <br>
+*📍 Home* <br>
+*✍️Commits: 17-19* <br>
+
+### Accomplished during this Session
+
 * ✅ (31 min - Lec 38) Building the Features Section<br>
 Downloaded icon set from [lineao.io](http://linea.io/). Note: using PNGs is bad practice for icons. Instead you want to either use fonts or SVGs.
 Learned a bit more about transforms.<br>
-* ✅ (26 min - Lec 39) Building the Features Section<br>
+* ✅ (26 min - Lec 39) Building the Tours Section - Part 1<br>
 Note to self. It is **very** important to remember the ```;``` in writing SCSS files. Otherwise, the changes aren't shown aand no errors are thrown.
 
 * ⏰ Total Time: XX → XX<br>
