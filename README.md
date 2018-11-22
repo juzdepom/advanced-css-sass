@@ -5,9 +5,31 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 <a href="https://www.udemy.com/advanced-css-and-sass/" target="_blank">![course](/assets/course.png)</a>
 
 ## All Sessions
+* [Session 4](#session-4)
 * [Session 3](#session-3)
 * [Session 2](#session-2)
 * [Session 1](#session-1)
+
+### GIF reqs
+Convert to GIF [here](https://ezgif.com/optimize)
+* Optimize by 200
+* Reduce size to 40% of original
+
+
+## Session 4
+*🗓 Th, Nov 21, 2018* <br>
+*📶Progress: XX* <br>
+*⏰Lecture Hours: XX*<br>
+*💬Lectures: 38-XX* <br>
+*🕐 6:20am-XX*  <br>
+*📍 Home* <br>
+*📱Instagram Post Link* <br>
+*✍️Commits: XX* <br>
+
+### Accomplished during this Session
+
+* ✅ (31 min - Lec 38) Building the Features Section<br>
+* ⏰ Total Time: XX → XX<br>
 
 ## Session 3
 *🗓 W, Nov 20, 2018* <br>
@@ -16,7 +38,6 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 *💬Lectures: 34-37* <br>
 *🕐 5am-7:10am*  <br>
 *📍 Home* <br>
-*📱Instagram Post Link* <br>
 *✍️Commits: 14-16* <br>
 
 ### Accomplished during this Session
@@ -25,8 +46,9 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 * ✅ (23 min - Lec 35) Building the About Section Part 1 –– in this lecture we learn how to think about components, how and why to use utility class, how to use the ```background-clip``` property, how to ```transform``` multiple properties simulatenously, how to use the ```outline-offset``` property together with ```outline```, how to style elements that are NOT hovered while others are.<br>
 * ✅ (22 min - Lec 36) Building the About Section Part 2<br>
 * ✅ (18 min - Lec 37) Building the About Section Part 3<br>
-* ⏰ Total Time: 100 min → 1h 40 min<br>
+* ⏰ Total Time: 100 min → 1h 40 min<br>'
 
+![Session3Gif](/assets/session3/session3.gif)
 
 ## Session 2
 *🗓 T, Nov 19, 2018* <br>
