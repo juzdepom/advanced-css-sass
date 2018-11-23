@@ -13,6 +13,7 @@
     background-position: top;
     position: relative;
 
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%); // this allows this to work across all browsers.
     clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
 
     &__logo-box {

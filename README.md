@@ -24,15 +24,15 @@ Convert to GIF [here](https://ezgif.com/optimize)
 *📶Progress: XX* <br>
 *⏰Lecture Hours: XX*<br>
 *💬Lectures: 38-XX* <br>
-*🕐 6:20am-XX*  <br>
-*📍 Home* <br>
+*🕐 6:30am-XX*  <br>
+*📍Home* <br>
 *📱Instagram Post Link* <br>
 *✍️Commits: XX* <br>
 
 ### Accomplished during this Session
 
 * ✅ (31 min min - Lec 38) Building the Tours Section - Part 2<br>
-xxx
+Simplest way to center a block element within another block element: ```margin: 0 auto;```
 
 ## Session 4
 *🗓 Th, Nov 21, 2018* <br>

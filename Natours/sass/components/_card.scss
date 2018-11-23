@@ -4,13 +4,11 @@
     //in order for this to work in firefox
     -moz-perspective: 150rem;
     position: relative;
-    height: 50rem;
+    height: $card-height;
 
 
     &__side {
-        color: white;
-        font-size: 5rem;
-        height: 50rem;
+        height: $card-height;
         transition: all .8s ease;
         position: absolute;
         top: 0;
@@ -20,6 +18,7 @@
         backface-visibility: hidden;
 
         border-radius: 3px;
+        overflow: hidden; //if you don't use this, an image overrides the border radius
         box-shadow: 0 1.5rem 4rem rgba($color-black, .15);
 
         &--front {
@@ -36,10 +35,71 @@
     }
 
     &:hover &__side--front {
-        transform: rotateY(180deg);
+        transform: rotateY(-180deg);
     }
 
     &:hover &__side--back {
         transform: rotateY(0);
+    }
+
+    // FRONT SIDE STYLING
+    &__picture {
+        background-size: cover;
+        height: 23rem;
+        //note: background-blend-mode & clip-parth don't work in internet explore or microsoft apache or sth
+        background-blend-mode: screen;
+        -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+
+        &--1 {
+            background-image: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark), url(../img/nat-5.jpg); //the urls are coming from the css folder
+        }
+        &--2 {
+            background-image: url(../img/nat-6.jpg); //the urls are coming from the css folder
+        }
+        &--3 {
+            background-image: url(../img/nat-7.jpg); //the urls are coming from the css folder
+        }
+    }
+
+      &__heading {
+        font-size: 2.8rem;
+        font-weight: 300;
+        text-transform: uppercase;
+        color: white;
+        position: absolute;
+        text-align: right;
+        top: 13rem;
+        right: 2rem;
+        width: 75%;
+    }
+
+    &__heading-span {
+        padding: 1rem 1.5rem;
+        -webkit-box-decoration-break: clone;
+        box-decoration-break: clone;
+        &--1 {
+            background-image: linear-gradient(to right bottom, rgba($color-secondary-light, .85), rgba($color-secondary-dark, .85))
+        }
+    }
+
+    &__details {
+        padding: 3rem;
+        ul {
+            list-style: none;
+            width: 80%;
+            //simplest way to center a block element within another block element
+            margin: 0 auto;
+
+            li {
+                text-align: center;
+                font-size: 1.5rem;
+                padding: 1rem;
+
+                &:not(:last-child) {
+                    border-bottom: 1px solid $color-gray-light-2;
+                }
+            }
+        }
     }
 }
