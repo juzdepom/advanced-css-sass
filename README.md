@@ -23,7 +23,8 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * Optimize by 200
 * Reduce size to 40% of original
 
-## Session 6
+## Session 6 – [⤴️](#all-sessions)
+
 *🗓 S, Nov 23, 2018* <br>
 *💬Lectures: 41-XX* <br>
 *🕐 7PM-* <br>
@@ -31,21 +32,21 @@ Convert to GIF [here](https://ezgif.com/optimize)
 *📱Instagram Post Link* <br>
 *✍️Commits: XX* <br>
 
-In the Stories Section, we will learn how to:
+#### In the Stories Section, we will learn how to:
 * make text flow around shapes with ```shape-outside``` and ```float```.
 * apply a ```filter``` to images.
 * create a background video covering an entire section.
 * use the ```<video>``` HTML element.
 * how and when to use the ```object-fit``` property.
 
-In the Booking Section, we will learn how to:
+#### In the Booking Section, we will learn how to:
 * implement "solid-color gradients";
 * how the general and adjacent sibling selectors work and why we need them;
 * use the ```::input-placeholder``` pseudo-element;
 * how and when to use the ```:focus, :invalid, placeholder-shown, :checked``` pseudo-classes;
 * techniques to build custom radio buttons;
 
-Progress🔥
+#### Progress🔥
 * ✅ (16 min - Lec 41) Building the Tours Section - Part 3<br>
 When some CSS is not working, the best way to debug is to inspect the element with the chrome inspector tools and play around with the styles.
 * ✅ (20 min - Lec 42) Building the Stories Section - Part 1<br>
