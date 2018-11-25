@@ -44,7 +44,7 @@ In the Booking Section, we will learn how to:
 * how and when to use the ```:focus, :invalid, placeholder-shown, :checked``` pseudo-classes;
 * techniques to build custom radio buttons;
 
-Progress
+Progress🔥
 * ✅ (16 min - Lec 41) Building the Tours Section - Part 3<br>
 When some CSS is not working, the best way to debug is to inspect the element with the chrome inspector tools and play around with the styles.
 * ✅ (20 min - Lec 42) Building the Stories Section - Part 1<br>
@@ -55,6 +55,9 @@ Whenever you want one element to be positioned over another element, you use ```
 Can go on [coverr.co](www.coverr.co) to download all sorts of handy videos for your website.<br>
 Whenenever an image or video goes over it's borders, ```overflow: hidden``` is a very useful property.
 * ✅ (19 min - Lec 44) Building the Booking Section - Part 1<br>
+Learned a cool semi-transparent trick with ```linear gradient``` property in ```home.scss .book``` class
+* ✅ (19 min - Lec 45) Building the Booking Section - Part 2<br>
+
 
 
 
