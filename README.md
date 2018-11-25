@@ -6,10 +6,10 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
 ## All Sessions
 * [Session 5](#session-5) - Lecture 40
-* [Session 4](#session-4) - Lecture
-* [Session 3](#session-3)
-* [Session 2](#session-2)
-* [Session 1](#session-1)
+* [Session 4](#session-4) - Lecture 38-39
+* [Session 3](#session-3) - Lecture 34-37
+* [Session 2](#session-2) - Lecture 8-33
+* [Session 1](#session-1) - Lecture 1-7
 
 ### How to get Sass compiling locally
 * ```npm run compile:sass``` (check package.json)
