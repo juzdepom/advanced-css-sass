@@ -46,6 +46,14 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * how and when to use the ```:focus, :invalid, placeholder-shown, :checked``` pseudo-classes;
 * techniques to build custom radio buttons;
 
+#### In the Navigation Section, we will learn:
+* What the "checkbox hack" is and how it works;
+* How to create custom animation timing functions using cubic bezier curves;
+* How to animate "solid-color gradients";
+* How and why to us ```transform-origin```;
+* In general: create an amazing creative effect!
+
+
 #### Progress🔥
 * ✅ (16 min - Lec 41) Building the Tours Section - Part 3<br>
 When some CSS is not working, the best way to debug is to inspect the element with the chrome inspector tools and play around with the styles.
@@ -64,7 +72,14 @@ Learned about ```font-family:inherit```.<br>
 Whenever you perform an animation on an element, you need ot apply the ```transition``` (helps determine speed) to the parent element, otherwise the animation won't work. Creating a custom radio button is super cool.
 * ✅ (16 min - Lec 48) Building the Footer<br>
 Love the text animation in the footer. Super cool!
-* ✅ (30 min - Lec 49) Building the Footer<br>
+* ✅ (30 min - Lec 49) Building the Navigation Part 1<br>
+```z-index``` only works on an element with the ```position``` property defined.
+* ✅ (14 min - Lec 50) Building the Navigation Part 2<br>
+Check out easing functions at [easings.net](www.easings.net)
+* ✅ (16 min - Lec 51) Building the Navigation Part 3<br>
+
+
+
 
 
 
