@@ -30,9 +30,22 @@ Convert to GIF [here](https://ezgif.com/optimize)
 *📱Instagram Post Link* <br>
 *✍️Commits: XX* <br>
 
+In the Stories Section, we will learn how to:
+* make text flow around shapes with ```shape-outside``` and ```float```.
+* apply a ```filter``` to images.
+* create a background video covering an entire section.
+* use the ```<video>``` HTML element.
+* how and when to use the ```object-fit``` property.
+
+In the Booking Section, we will learn how to:
+* implement "solid-color gradients";
+* how the general and adjacent sibling selectors work and why we need them;
+* use the ```::input-placeholder``` pseudo-element;
+* how and when to use the ```:focus, :invalid, placeholder-shown, :checked``` pseudo-classes;
+* techniques to build custom radio buttons;
+
 * ✅ (16 min - Lec 41) Building the Tours Section - Part 3<br>
 When some CSS is not working, the best way to debug is to inspect the element with the chrome inspector tools and play around with the styles.
-* In the Stories Section, we will learn how to: make text flow around shapes with ```shape-outside``` and ```float```. How to apply a ```filter``` to images. How to create a background video coveirng an entire section. How to use the ```<video>``` HTML element. How and when to use the ```object-fit``` property.<br>
 * ✅ (20 min - Lec 42) Building the Stories Section - Part 1<br>
 Used the ```transform: skewX(12deg)``` in ```_story.scss``` to skew the story container box.
 * ✅ (14 min - Lec 43) Building the Stories Section - Part 2<br>
@@ -40,6 +53,8 @@ Whenever you want one element to be positioned over another element, you use ```
 * ✅ (14 min - Lec 44) Building the Stories Section - Part 3<br>
 Can go on [coverr.co](www.coverr.co) to download all sorts of handy videos for your website.<br>
 Whenenever an image or video goes over it's borders, ```overflow: hidden``` is a very useful property.
+* ✅ (19 min - Lec 44) Building the Booking Section - Part 1<br>
+
 
 
 ## Session 5
