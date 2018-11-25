@@ -38,8 +38,8 @@ Used the ```transform: skewX(12deg)``` in ```_story.scss``` to skew the story co
 * ✅ (14 min - Lec 43) Building the Stories Section - Part 2<br>
 Whenever you want one element to be positioned over another element, you use ```position: absolute``` on the element and the ```position: relative``` on the parent element. Whenever you perform an animation, you need to use the ```transition``` property to determine animation speeds. Use ```backface-visibility: hidden``` whenever there are small weird animation glitches. This usually fixes it!
 * ✅ (14 min - Lec 44) Building the Stories Section - Part 3<br>
-XXX
-
+Can go on [coverr.co](www.coverr.co) to download all sorts of handy videos for your website.<br>
+Whenenever an image or video goes over it's borders, ```overflow: hidden``` is a very useful property.
 
 
 ## Session 5
