@@ -31,7 +31,7 @@ Convert to GIF [here](https://ezgif.com/optimize)
 *✍️Commits: XX* <br>
 
 * ✅ (16 min min - Lec 41) Building the Tours Section - Part 3<br>
-XXX
+When some CSS is not working, the best way to debug is to inspect the element with the chrome inspector tools and play around with the styles.
 
 ## Session 5
 *🗓 F, Nov 22, 2018* <br>
