@@ -11,6 +11,8 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 * [Session 2](#session-2) - Lecture 8-33
 * [Session 1](#session-1) - Lecture 1-7
 
+## Tips & Tricks
+
 ### How to get Sass compiling locally
 * ```npm run compile:sass``` (check package.json)
 
@@ -19,16 +21,15 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * Optimize by 200
 * Reduce size to 40% of original
 
-
 ## Session 6
 *🗓 S, Nov 23, 2018* <br>
 *💬Lectures: 41-XX* <br>
-*🕐 7PM-XX *  <br>
+*🕐 7PM-XX* <br>
 *📍Home* <br>
 *📱Instagram Post Link* <br>
 *✍️Commits: XX* <br>
 
-### Accomplished during this Session
+### Accomplished
 
 * ✅ (16 min min - Lec 41) Building the Tours Section - Part 3<br>
 XXX
@@ -39,7 +40,7 @@ XXX
 *📍Home* <br>
 *✍️Commits: 20* <br>
 
-### Accomplished during this Session
+### Accomplished
 
 * ✅ (31 min min - Lec 40) Building the Tours Section - Part 2<br>
 Simplest way to **center** a block element within another block element: ```margin: 0 auto;``` <br>
@@ -55,7 +56,7 @@ Simplest way to **center** a block element within another block element: ```marg
 *📍 Home* <br>
 *✍️Commits: 17-19* <br>
 
-### Accomplished during this Session
+### Accomplished
 
 * ✅ (31 min - Lec 38) Building the Features Section<br>
 Downloaded icon set from [lineao.io](http://linea.io/). Note: using PNGs is bad practice for icons. Instead you want to either use fonts or SVGs.
@@ -75,7 +76,7 @@ Note to self. It is **very** important to remember the ```;``` in writing SCSS f
 *📍 Home* <br>
 *✍️Commits: 14-16* <br>
 
-### Accomplished during this Session
+### Accomplished
 
 * ✅ (37 min - Lec 34) Building a Custom Grid with Floats<br>
 * ✅ (23 min - Lec 35) Building the About Section Part 1 –– in this lecture we learn how to think about components, how and why to use utility class, how to use the ```background-clip``` property, how to ```transform``` multiple properties simulatenously, how to use the ```outline-offset``` property together with ```outline```, how to style elements that are NOT hovered while others are.<br>
