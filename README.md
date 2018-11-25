@@ -5,8 +5,8 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 <a href="https://www.udemy.com/advanced-css-and-sass/" target="_blank">![course](/assets/course.png)</a>
 
 ## All Sessions
-* [Session 5](#session-5)
-* [Session 4](#session-4)
+* [Session 5](#session-5) - Lecture 40
+* [Session 4](#session-4) - Lecture
 * [Session 3](#session-3)
 * [Session 2](#session-2)
 * [Session 1](#session-1)
@@ -19,20 +19,32 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * Optimize by 200
 * Reduce size to 40% of original
 
-## Session 5
-*🗓 XX* <br>
-*📶Progress: XX* <br>
-*⏰Lecture Hours: XX*<br>
-*💬Lectures: 38-XX* <br>
-*🕐 6:30am-XX*  <br>
+
+## Session 6
+*🗓 S, Nov 23, 2018* <br>
+*💬Lectures: 41-XX* <br>
+*🕐 7PM-XX *  <br>
 *📍Home* <br>
 *📱Instagram Post Link* <br>
 *✍️Commits: XX* <br>
 
 ### Accomplished during this Session
 
-* ✅ (31 min min - Lec 38) Building the Tours Section - Part 2<br>
-Simplest way to center a block element within another block element: ```margin: 0 auto;```
+* ✅ (16 min min - Lec 41) Building the Tours Section - Part 3<br>
+XXX
+
+## Session 5
+*🗓 F, Nov 22, 2018* <br>
+*🕐 6:30am-7:20am*  <br>
+*📍Home* <br>
+*✍️Commits: 20* <br>
+
+### Accomplished during this Session
+
+* ✅ (31 min min - Lec 40) Building the Tours Section - Part 2<br>
+Simplest way to **center** a block element within another block element: ```margin: 0 auto;``` <br>
+*Needed to take a break at 7:20am to prepare for morning 8am call for the Muay Thai Mastermind*
+
 
 ## Session 4
 *🗓 Th, Nov 21, 2018* <br>
@@ -53,7 +65,6 @@ Note to self. It is **very** important to remember the ```;``` in writing SCSS f
 * ⏰ Total Time: 57min <br>
 
 ![Session4Gif](/assets/session4/session4.gif)
-
 
 ## Session 3
 *🗓 W, Nov 20, 2018* <br>
