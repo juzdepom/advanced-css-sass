@@ -1,5 +1,6 @@
 .btn {
-    /* link is a special state of a selector when it is an anchor element so it functions as a link  */
+
+    &,/* link is a special state of a selector when it is an anchor element so it functions as a link  */
     &:link,
     &:visited {
         text-transform: uppercase;
@@ -9,9 +10,14 @@
         border-radius: 10rem;
         transition: all .2s;
         position: relative;
+
+        //change for the <button> element
+        border: none;
+        cursor: pointer;
     }
 
-    &:hover {
+    &:hover
+    {
         /* negative values to go up */
         transform: translateY(-0.3rem);
         box-shadow: 0 1rem 2rem rgba(0,0,0, .2);
@@ -22,7 +28,9 @@
         }
     }
 
-    &:active {
+    &:active,
+    &:focus {
+        outline: none;
         transform: translateY(-0.1rem);
         box-shadow: 0 0.5rem 1rem rgba(0,0,0, .2);
 

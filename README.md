@@ -59,7 +59,10 @@ Whenenever an image or video goes over it's borders, ```overflow: hidden``` is a
 Learned a cool semi-transparent trick with ```linear gradient``` property in ```home.scss .book``` class
 * ✅ (19 min - Lec 46) Building the Booking Section - Part 2<br>
 Learned about ```font-family:inherit```.<br>
-* ✅ (23 min - Lec 467 Building the Booking Section - Part 3<br>
+* ✅ (23 min - Lec 47) Building the Booking Section - Part 3<br>
+Whenever you perform an animation on an element, you need ot apply the ```transition``` (helps determine speed) to the parent element, otherwise the animation won't work. Creating a custom radio button is super cool.
+* ✅ (16 min - Lec 48) Building the Footer<br>
+
 
 
 
