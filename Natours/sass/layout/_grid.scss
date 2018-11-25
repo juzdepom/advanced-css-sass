@@ -2,7 +2,7 @@
     // max width -> if the viewport is smaller than the value,
     // then the width will be 100% of the viewport width
     max-width: $grid-width;
-    // background-color: #eee;
+    // background-color: $color-white;
     margin: 0 auto; //trick to center block elements within other block elements
 
     //:not selects everything EXCEPT the last child

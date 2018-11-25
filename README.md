@@ -30,8 +30,14 @@ Convert to GIF [here](https://ezgif.com/optimize)
 *📱Instagram Post Link* <br>
 *✍️Commits: XX* <br>
 
-* ✅ (16 min min - Lec 41) Building the Tours Section - Part 3<br>
+* ✅ (16 min - Lec 41) Building the Tours Section - Part 3<br>
 When some CSS is not working, the best way to debug is to inspect the element with the chrome inspector tools and play around with the styles.
+* In the Stories Section, we will learn how to: make text flow around shapes with ```shape-outside``` and ```float```. How to apply a ```filter``` to images. How to create a background video coveirng an entire section. How to use the ```<video>``` HTML element. How and when to use the ```object-fit``` property.<br>
+* ✅ (20 min - Lec 42) Building the Stories Section - Part 1<br>
+Used the ```transform: skewX(12deg)``` in ```_story.scss``` to skew the story container box.
+* ✅ (14 min - Lec 43) Building the Stories Section - Part 2<br>
+
+
 
 ## Session 5
 *🗓 F, Nov 22, 2018* <br>
