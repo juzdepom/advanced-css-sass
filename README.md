@@ -14,8 +14,9 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
 ## Tips & Tricks
 
-### How to get Sass compiling locally
-* ```npm run compile:sass``` (check package.json)
+### Sass
+* How to get Sass compiling locally: ```npm run compile:sass``` (check package.json)
+* Sometimes, when Sass isn't compiling, you need to randomly press Command + S on a different file (even if the file is already saved) to trigger the compile🤷🏻‍♀️
 
 ### GIF reqs
 Convert to GIF [here](https://ezgif.com/optimize)
@@ -25,7 +26,7 @@ Convert to GIF [here](https://ezgif.com/optimize)
 ## Session 6
 *🗓 S, Nov 23, 2018* <br>
 *💬Lectures: 41-XX* <br>
-*🕐 7PM-XX* <br>
+*🕐 7PM-* <br>
 *📍Home* <br>
 *📱Instagram Post Link* <br>
 *✍️Commits: XX* <br>
@@ -54,9 +55,13 @@ Whenever you want one element to be positioned over another element, you use ```
 * ✅ (14 min - Lec 44) Building the Stories Section - Part 3<br>
 Can go on [coverr.co](www.coverr.co) to download all sorts of handy videos for your website.<br>
 Whenenever an image or video goes over it's borders, ```overflow: hidden``` is a very useful property.
-* ✅ (19 min - Lec 44) Building the Booking Section - Part 1<br>
+* ✅ (19 min - Lec 45) Building the Booking Section - Part 1<br>
 Learned a cool semi-transparent trick with ```linear gradient``` property in ```home.scss .book``` class
-* ✅ (19 min - Lec 45) Building the Booking Section - Part 2<br>
+* ✅ (19 min - Lec 46) Building the Booking Section - Part 2<br>
+Learned about ```font-family:inherit```.<br>
+* ✅ (23 min - Lec 467 Building the Booking Section - Part 3<br>
+
+
 
 
 
