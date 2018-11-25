@@ -36,6 +36,9 @@ When some CSS is not working, the best way to debug is to inspect the element wi
 * ✅ (20 min - Lec 42) Building the Stories Section - Part 1<br>
 Used the ```transform: skewX(12deg)``` in ```_story.scss``` to skew the story container box.
 * ✅ (14 min - Lec 43) Building the Stories Section - Part 2<br>
+Whenever you want one element to be positioned over another element, you use ```position: absolute``` on the element and the ```position: relative``` on the parent element. Whenever you perform an animation, you need to use the ```transition``` property to determine animation speeds. Use ```backface-visibility: hidden``` whenever there are small weird animation glitches. This usually fixes it!
+* ✅ (14 min - Lec 44) Building the Stories Section - Part 3<br>
+XXX
 
 
 
