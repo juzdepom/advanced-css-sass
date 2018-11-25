@@ -53,6 +53,12 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * How and why to us ```transform-origin```;
 * In general: create an amazing creative effect!
 
+#### While building a pure CSS Popup, we will learn:
+* How to build a nice popup with only CSS;
+* How to use the ```:target``` pseudo-class;
+* How to create boxes with equal height using ```display: table-cell;```;
+* How to create CSS text columns;
+* How to automatically hyphenate words using ```hyphens```;
 
 #### Progress🔥
 * ✅ (16 min - Lec 41) Building the Tours Section - Part 3<br>
@@ -77,6 +83,11 @@ Love the text animation in the footer. Super cool!
 * ✅ (14 min - Lec 50) Building the Navigation Part 2<br>
 Check out easing functions at [easings.net](www.easings.net)
 * ✅ (16 min - Lec 51) Building the Navigation Part 3<br>
+Working on the hamburger icon.
+* ✅ (25 min - Lec 52) Building a Pure CSS Popup Part 1<br>
+* ✅ (17 min - Lec 53) Building a Pure CSS Popup Part 2<br>
+
+
 
 
 
