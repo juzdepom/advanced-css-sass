@@ -30,8 +30,6 @@ Convert to GIF [here](https://ezgif.com/optimize)
 *📱Instagram Post Link* <br>
 *✍️Commits: XX* <br>
 
-### Accomplished
-
 * ✅ (16 min min - Lec 41) Building the Tours Section - Part 3<br>
 XXX
 
@@ -41,12 +39,9 @@ XXX
 *📍Home* <br>
 *✍️Commits: 20* <br>
 
-### Accomplished
-
 * ✅ (31 min min - Lec 40) Building the Tours Section - Part 2<br>
 Simplest way to **center** a block element within another block element: ```margin: 0 auto;``` <br>
 *Needed to take a break at 7:20am to prepare for morning 8am call for the Muay Thai Mastermind*
-
 
 ## Session 4
 *🗓 Th, Nov 21, 2018* <br>
@@ -56,8 +51,6 @@ Simplest way to **center** a block element within another block element: ```marg
 *🕐 6:20am-noon*  <br>
 *📍 Home* <br>
 *✍️Commits: 17-19* <br>
-
-### Accomplished
 
 * ✅ (31 min - Lec 38) Building the Features Section<br>
 Downloaded icon set from [lineao.io](http://linea.io/). Note: using PNGs is bad practice for icons. Instead you want to either use fonts or SVGs.
@@ -76,8 +69,6 @@ Note to self. It is **very** important to remember the ```;``` in writing SCSS f
 *🕐 5am-7:10am*  <br>
 *📍 Home* <br>
 *✍️Commits: 14-16* <br>
-
-### Accomplished
 
 * ✅ (37 min - Lec 34) Building a Custom Grid with Floats<br>
 * ✅ (23 min - Lec 35) Building the About Section Part 1 –– in this lecture we learn how to think about components, how and why to use utility class, how to use the ```background-clip``` property, how to ```transform``` multiple properties simulatenously, how to use the ```outline-offset``` property together with ```outline```, how to style elements that are NOT hovered while others are.<br>
@@ -117,8 +108,6 @@ Need to run ```npm run compile:sass``` in terminal. Watch [Lecture 27](https://w
 
 #### Introduction to Sass [Codepen](https://codepen.io/juzdepomme/pen/xQpRqa?editors=1100)
 ![sass-intro-codepen](/assets/session2/sass-intro-codepen.png)
-
-
 
 ### Section 3: How CSS Works: A Look Behind the Scenes
 
