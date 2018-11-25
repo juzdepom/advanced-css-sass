@@ -43,7 +43,7 @@ In the Booking Section, we will learn how to:
 * use the ```::input-placeholder``` pseudo-element;
 * how and when to use the ```:focus, :invalid, placeholder-shown, :checked``` pseudo-classes;
 * techniques to build custom radio buttons;
-
+<hr>
 * ✅ (16 min - Lec 41) Building the Tours Section - Part 3<br>
 When some CSS is not working, the best way to debug is to inspect the element with the chrome inspector tools and play around with the styles.
 * ✅ (20 min - Lec 42) Building the Stories Section - Part 1<br>
