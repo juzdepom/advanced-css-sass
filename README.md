@@ -23,7 +23,7 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * Optimize by 200
 * Reduce size to 40% of original
 
-## Session 6 – [⤴️](#all-sessions)
+## Session 6 – [🔝](#all-sessions)
 
 *🗓 S, Nov 23, 2018* <br>
 *💬Lectures: 41-XX* <br>
@@ -65,12 +65,7 @@ Whenever you perform an animation on an element, you need ot apply the ```transi
 * ✅ (16 min - Lec 48) Building the Footer<br>
 
 
-
-
-
-
-
-## Session 5
+## Session 5 – [🔝](#all-sessions)
 *🗓 F, Nov 22, 2018* <br>
 *🕐 6:30am-7:20am*  <br>
 *📍Home* <br>
@@ -80,7 +75,7 @@ Whenever you perform an animation on an element, you need ot apply the ```transi
 Simplest way to **center** a block element within another block element: ```margin: 0 auto;``` <br>
 *Needed to take a break at 7:20am to prepare for morning 8am call for the Muay Thai Mastermind*
 
-## Session 4
+## Session 4 – [🔝](#all-sessions)
 *🗓 Th, Nov 21, 2018* <br>
 *📶Progress: 32%* <br>
 *⏰Lecture Hours: 57 min*<br>
@@ -98,7 +93,7 @@ Note to self. It is **very** important to remember the ```;``` in writing SCSS f
 
 ![Session4Gif](/assets/session4/session4.gif)
 
-## Session 3
+## Session 3 – [🔝](#all-sessions)
 *🗓 W, Nov 20, 2018* <br>
 *📶Progress: 30% Complete (8.4/28 hours)* <br>
 *⏰Lecture Hours: 1h 40min*<br>
@@ -115,7 +110,7 @@ Note to self. It is **very** important to remember the ```;``` in writing SCSS f
 
 ![Session3Gif](/assets/session3/session3.gif)
 
-## Session 2
+## Session 2 – [🔝](#all-sessions)
 *🗓 T, Nov 19, 2018* <br>
 *📍 Home + Haddon Township Library* <br>
 *🕐 5am-4pm(interspersed with breaks)*  <br>
@@ -196,7 +191,7 @@ Positioning Schemes
 Building with meaningful class names
 ![classnames](/assets/session2/classnames.png)
 
-## Session 1
+## Session 1 – [🔝](#all-sessions)
 
 *🗓 S, Nov 17, 2018* <br>
 *📍 Haddon Township Library* <br>
