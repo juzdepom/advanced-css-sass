@@ -61,6 +61,7 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * How to automatically hyphenate words using ```hyphens```;
 
 #### Progress🔥
+* ⏰ Total Time: 243min = 4h03min<br>
 * ✅ (16 min - Lec 41) Building the Tours Section - Part 3<br>
 When some CSS is not working, the best way to debug is to inspect the element with the chrome inspector tools and play around with the styles.
 * ✅ (20 min - Lec 42) Building the Stories Section - Part 1<br>
