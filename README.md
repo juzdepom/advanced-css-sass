@@ -63,6 +63,9 @@ Learned about ```font-family:inherit```.<br>
 * ✅ (23 min - Lec 47) Building the Booking Section - Part 3<br>
 Whenever you perform an animation on an element, you need ot apply the ```transition``` (helps determine speed) to the parent element, otherwise the animation won't work. Creating a custom radio button is super cool.
 * ✅ (16 min - Lec 48) Building the Footer<br>
+Love the text animation in the footer. Super cool!
+* ✅ (30 min - Lec 49) Building the Footer<br>
+
 
 
 ## Session 5 – [🔝](#all-sessions)
