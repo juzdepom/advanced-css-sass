@@ -5,6 +5,7 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 <a href="https://www.udemy.com/advanced-css-and-sass/" target="_blank">![course](/assets/course.png)</a>
 
 ## All Sessions
+* [Session 6](#session-6) - Lecture 41-XX
 * [Session 5](#session-5) - Lecture 40
 * [Session 4](#session-4) - Lecture 38-39
 * [Session 3](#session-3) - Lecture 34-37
