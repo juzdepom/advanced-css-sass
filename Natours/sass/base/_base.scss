@@ -12,9 +12,27 @@
 html {
     // this defines what 1rem is -- the default font size is 16px; we're changing it to 10px with a percentage;
     font-size: 62.5%;
+
+    @include respond(tab-land) {
+        font-size: 56.25%;
+    }
+    @include respond(phone) {
+        font-size: 50%;
+    }
+    @include respond(tab-port) {
+        font-size: 50%;
+    }
+    @include respond(big-desktop) {
+        font-size: 75%;
+    }
 }
 
 body {
     /* tbh not sure what this does, this is just supposed to be good practice */
     box-sizing: border-box;
+    padding: 3rem;
+
+    @include respond(tab-port) {
+        padding: 0;
+    }
 }

@@ -5,10 +5,57 @@ body {
     font-size: $default-font-size;
     line-height: 1.7;
     color: $color-gray;
-    padding: 3rem;
 
     /* tbh not sure what this does, this is just supposed to be good practice */
     box-sizing: border-box;
+}
+
+.heading-primary {
+    color: $color-white;
+    text-transform: uppercase;
+
+    /* this solves a small animation bug */
+    backface-visibility: hidden;
+    margin-bottom: 6rem;
+    @include respond(tab-port){
+        margin-bottom: 5rem;
+    }
+
+    &--main {
+        /* block occupies 100% of the width */
+        display: block;
+        font-size: 6rem;
+        font-weight: 400;
+        letter-spacing: 3.5rem;
+
+        animation-name: moveInLeft;
+        animation-duration: 1s;
+        animation-timing-function: ease-out;
+
+        @include respond(phone) {
+            letter-spacing: 5px;
+        }
+
+        /* other cool animation properties */
+        /* animation-delay: 3s;
+        animation-iteration -count: 3; */
+    }
+
+
+
+    &--sub {
+        display: block;
+        font-size: 2rem;
+        font-weight: 700;
+        letter-spacing: 1.74rem;
+
+        /* more efficient way */
+        animation: moveInRight 1s ease-out;
+
+        @include respond(phone) {
+            letter-spacing: 0.5px;
+        }
+    }
 }
 
 .heading-secondary {
@@ -22,6 +69,13 @@ body {
     color: transparent;
     letter-spacing: 2px;
     transition: all .2s;
+
+    @include respond(tab-port) {
+        font-size: 2.5rem;
+    }
+    @include respond(phone) {
+        font-size: 2rem;
+    }
 
     &:hover {
         transform: skewY(2deg) skewX(15deg) scale(1.1);

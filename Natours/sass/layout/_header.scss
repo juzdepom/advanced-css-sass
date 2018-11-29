@@ -1,6 +1,9 @@
 .header {
     /* 95% of the viewport height */
     height: 95vh;
+    @include respond(tab-port){
+        height: 70vh;
+    }
     background-image:
         linear-gradient(
             to right bottom,
@@ -16,6 +19,11 @@
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%); // this allows this to work across all browsers.
     clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
 
+    @include respond(phone){
+        -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+    }
+
     &__logo-box {
         position: absolute;
         top: 4rem;
@@ -29,6 +37,9 @@
     &__text-box {
         position: absolute;
         top: 40%;
+        @include respond(tab-port){
+            top: 50%;
+        }
         left: 50%;
         transform: translate(-50%, -50%);
         text-align: center;
@@ -36,37 +47,3 @@
 
 }
 
-.heading-primary {
-    color: $color-white;
-    text-transform: uppercase;
-
-    /* this solves a small animation bug */
-    backface-visibility: hidden;
-    margin-bottom: 60px;
-
-    &--main {
-        /* block occupies 100% of the width */
-        display: block;
-        font-size: 6rem;
-        font-weight: 400;
-        letter-spacing: 3.5rem;
-
-        animation-name: moveInLeft;
-        animation-duration: 1s;
-        animation-timing-function: ease-out;
-
-        /* other cool animation properties */
-        /* animation-delay: 3s;
-        animation-iteration-count: 3; */
-    }
-
-    &--sub {
-        display: block;
-        font-size: 2rem;
-        font-weight: 700;
-        letter-spacing: 1.74rem;
-
-        /* more efficient way */
-        animation: moveInRight 1s ease-out;
-    }
-}

@@ -5,7 +5,9 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 <a href="https://www.udemy.com/advanced-css-and-sass/" target="_blank">![course](/assets/course.png)</a>
 
 ## All Sessions
-* [Session 6](#session-6) - Lecture 41-XX
+* [Session 8](#session-8) - Lecture 58-XX
+* [Session 7](#session-7) - Lecture 54-57
+* [Session 6](#session-6) - Lecture 41-53
 * [Session 5](#session-5) - Lecture 40
 * [Session 4](#session-4) - Lecture 38-39
 * [Session 3](#session-3) - Lecture 34-37
@@ -23,14 +25,41 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * Optimize by 200
 * Reduce size to 40% of original
 
+## Session 7 – [🔝](#all-sessions)
+*🗓 Th, Nov 27, 2018* <br>
+*💬Lectures: 58-XX* <br>
+*🕐 4:20am-XX* <br>
+*📍Home* <br>
+
+* ⏰ Total Lecture Time: XXmin<br>
+* ✅ (13 min - Lec 58) Writing Media Queries – Layout, About and Features Sections<br>
+* ✅ (21 min - Lec 59) Writing Media Queries - Tours, Stories and Booking Sections<br>
+* ✅ (6 min - Lec 60) An Overview of Responsive Images<br>
+
+## Session 7 – [🔝](#all-sessions)
+*🗓 M, Nov 26, 2018* <br>
+*💬Lectures: 54-57* <br>
+*🕐 10:40pm* <br>
+*📍Planet Fitness* <br>
+
+* ⏰ Total Lecture Time: 75min = 1h15min<br>
+* ✅ (1 min - Lec 54) Section Intro<br>
+* ✅ (18 min - Lec 55) Mobile-First vs Desktop-First and Breakpoints<br>
+* ✅ (28 min - Lec 56) Let's Use the Power of Sass Mixins to Write Media Queries<br>
+The order the __media queries__ are arranged matters!
+* ✅ (27 min - Lec 57) Writing Media Queries - Base, Typography and Layout<br>
+Oh hey, you can actually show media queries!
+![mediaqueries](/assets/session7/mediaqueries.png)
+Aaah! So annoying, there is this weird padding-right on the homescreen to the Advanced CSS course.<br>
+There is something wonky with the top section.
+
+
 ## Session 6 – [🔝](#all-sessions)
 
-*🗓 S, Nov 23, 2018* <br>
-*💬Lectures: 41-XX* <br>
-*🕐 7PM-* <br>
+*🗓 S, Nov 23, 2018 - Su, Nov 24, 2018* <br>
+*💬Lectures: 41-53* <br>
+*🕐 7PM-9:40am* <br>
 *📍Home* <br>
-*📱Instagram Post Link* <br>
-*✍️Commits: XX* <br>
 
 #### In the Stories Section, we will learn how to:
 * make text flow around shapes with ```shape-outside``` and ```float```.
