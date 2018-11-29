@@ -25,7 +25,7 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * Optimize by 200
 * Reduce size to 40% of original
 
-## Session 7 – [🔝](#all-sessions)
+## Session 8 – [🔝](#all-sessions)
 *🗓 Th, Nov 27, 2018* <br>
 *💬Lectures: 58-XX* <br>
 *🕐 4:20am-XX* <br>
@@ -40,6 +40,11 @@ Go to [www.sizzy.com](www.sizzy.com) to enter your URL to test your display acro
 What are responsive images? <br> The goal of responsive images is to serve the __right image__ to the __right screen size__ and device, in order to avoid downloading unnecessary large images on smaller screens.
 <!-- 5 min break -->
 * ✅ (10 min - Lec 61) Responsive Images in HTML - Art Direction and Density Switching<br>
+Using the ```srcset``` attribute for ```img``` element for "density switching" aka different resolutions.
+![density](/assets/session8/density.png)
+With the ```picture``` element, we can specify multiple sources for one image.
+![picture](/assets/session8/picture.png)
+
 * ✅ (18 min - Lec 62) Responsive Images in HTML - Density and Resolution Switching<br>
 * ✅ (12 min - Lec 63) Responsive Images in CSS<br>
 * ✅ (22 min - Lec 64) Testing for Browser Support with @supports<br>
@@ -52,7 +57,7 @@ What are responsive images? <br> The goal of responsive images is to serve the _
 ## Session 7 – [🔝](#all-sessions)
 *🗓 M, Nov 26, 2018* <br>
 *💬Lectures: 54-57* <br>
-*🕐 10:40pm* <br>
+*🕐 10:40pm-1:15am* <br>
 *📍Planet Fitness* <br>
 
 * ⏰ Total Lecture Time: 75min = 1h15min<br>
