@@ -46,11 +46,27 @@ Using the ```srcset``` attribute for ```img``` element for "density switching" a
 ![density](/assets/session8/density.png)
 With the ```picture``` element, we can specify multiple sources for one image.
 ![picture](/assets/session8/picture.png)
+
 * ✅ (18 min - Lec 62) Responsive Images in HTML - Density and Resolution Switching<br>
+It might be helpful to go over this [lecture](https://www.udemy.com/advanced-css-and-sass/learn/v4/t/lecture/8274562?start=0) again, starting at 15:55.
+
+Homework: change ALL of the images to responsive images (I didn't do it hurhur)
+
 You can alter the resolution of your browser for testing 👇
 ![resolution](/assets/session8/resolution.png)
 <br>
 * ✅ (12 min - Lec 63) Responsive Images in CSS<br>
+
+What we're going to learn here: how to implement responsive images in CSS, how to use resolution media queries to target high-resolution screens with 2x. How to combine multiple conditions in media queries.
+
+Here we are going to reduce the size of the hero image from 2000px to 1200px for small screen sizes.
+If the screen resolution is higher than 192 dots per inch, than load the larger hero image.
+
+![hero](/assets/session8/hero.png)
+
+Remember! **Media queries always use ```em```!**
+
+(haven't completed yet)
 * ✅ (22 min - Lec 64) Testing for Browser Support with @supports<br>
 * ✅ (21 min - Lec 65) Setting up a Simple Build Process with NPM Scripts<br>
 * ✅ (14 min - Lec 66) Wrapping up the Natours Project: Final Considerations<br>
