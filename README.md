@@ -27,11 +27,12 @@ Convert to GIF [here](https://ezgif.com/optimize)
 
 ## Session 8 – [🔝](#all-sessions)
 *🗓 Th, Nov 27, 2018* <br>
-*💬Lectures: 58-XX* <br>
-*🕐 4:20am-XX* <br>
+*💬Lectures: 58-63* <br>
+*🕐 4:20am-6:45am (2h25)* <br>
 *📍Home* <br>
 
 * ⏰ Total Lecture Time: XXmin<br>
+* ⏰ Total Lecture Time: 80min = 1h20min<br>
 
 * ✅ (13 min - Lec 58) Writing Media Queries – Layout, About and Features Sections<br>
 <!-- 5 min break -->
