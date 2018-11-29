@@ -33,7 +33,9 @@ Convert to GIF [here](https://ezgif.com/optimize)
 
 * ⏰ Total Lecture Time: XXmin<br>
 * ✅ (13 min - Lec 58) Writing Media Queries – Layout, About and Features Sections<br>
+5 min break
 * ✅ (21 min - Lec 59) Writing Media Queries - Tours, Stories and Booking Sections<br>
+Go to [www.sizzy.com](www.sizzy.com) to enter your URL to test your display across different screen sizes 🔥 Challenge in this lecture: make the popup responsive.
 * ✅ (6 min - Lec 60) An Overview of Responsive Images<br>
 
 ## Session 7 – [🔝](#all-sessions)
