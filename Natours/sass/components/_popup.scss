@@ -10,6 +10,13 @@
     opacity: 0;
     visibility: hidden;
     transition: all .5s;
+    // doesn't work on google chrome
+    backdrop-filter: blur(10px);
+
+
+    @supports((-webkit-backdrop-filter: blur(10px)) or (backdrop-filter: blur(10px))){
+
+    }
 
     &__close {
         &:link,

@@ -5,7 +5,8 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 <a href="https://www.udemy.com/advanced-css-and-sass/" target="_blank">![course](/assets/course.png)</a>
 
 ## All Sessions
-* [Session 8](#session-8) - Lecture 58-XX
+* [Session 9](#session-9) - Lecture 58-63
+* [Session 8](#session-8) - Lecture 58-63
 * [Session 7](#session-7) - Lecture 54-57
 * [Session 6](#session-6) - Lecture 41-53
 * [Session 5](#session-5) - Lecture 40
@@ -25,13 +26,33 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * Optimize by 200
 * Reduce size to 40% of original
 
+## Session 9 – [🔝](#all-sessions)
+*🗓 F, Nov 28, 2018* <br>
+*💬 Lectures: 63-66* <br>
+*🕐 5am-XX* <br>
+*📍Home* <br>
+
+* ✅ (22 min - Lec 64) Testing for Browser Support with @supports<br>
+
+What we'll learn: how to use ```@supports``` feature queries. How to implement graceful degradation on selected properties. How to use ```backdrop-filter```.
+**graceful degradation**: providing a top notch experience for modern browsers and providing an adapted, reduced version to browsers that don't understand all of these shiny new features.
+
+Use [caniuse.com](www.caniuse.com) to check which properties are allowed in which browsers.
+
+![caniuse](/assets/session9/caniuse.png)
+
+Note: the ```webkit``` prefix is for Safari.
+
+
+* ✅ (21 min - Lec 65) Setting up a Simple Build Process with NPM Scripts<br>
+* ✅ (14 min - Lec 66) Wrapping up the Natours Project: Final Considerations<br>
+
 ## Session 8 – [🔝](#all-sessions)
 *🗓 Th, Nov 27, 2018* <br>
-*💬Lectures: 58-63* <br>
+*💬 Lectures: 58-63* <br>
 *🕐 4:20am-6:45am (2h25)* <br>
 *📍Home* <br>
 
-* ⏰ Total Lecture Time: XXmin<br>
 * ⏰ Total Lecture Time: 80min = 1h20min<br>
 
 * ✅ (13 min - Lec 58) Writing Media Queries – Layout, About and Features Sections<br>
@@ -66,13 +87,6 @@ If the screen resolution is higher than 192 dots per inch, than load the larger 
 ![hero](/assets/session8/hero.png)
 
 Remember! **Media queries always use ```em```!**
-
-(haven't completed yet)
-* ✅ (22 min - Lec 64) Testing for Browser Support with @supports<br>
-* ✅ (21 min - Lec 65) Setting up a Simple Build Process with NPM Scripts<br>
-* ✅ (14 min - Lec 66) Wrapping up the Natours Project: Final Considerations<br>
-
-
 
 ## Session 7 – [🔝](#all-sessions)
 *🗓 M, Nov 26, 2018* <br>
