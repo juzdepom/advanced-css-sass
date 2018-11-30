@@ -5,6 +5,8 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 <a href="https://www.udemy.com/advanced-css-and-sass/" target="_blank">![course](/assets/course.png)</a>
 
 ## All Sessions
+* [Session 10](#session-10) - Lecture XX
+* [Session 9](#session-9) - Lecture 64
 * [Session 9](#session-9) - Lecture 58-63
 * [Session 8](#session-8) - Lecture 58-63
 * [Session 7](#session-7) - Lecture 54-57
@@ -26,10 +28,16 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * Optimize by 200
 * Reduce size to 40% of original
 
+## Session 10 – [🔝](#all-sessions)
+*🗓 S, Nov 20, 2018* <br>
+*💬 Lectures: 64-XX* <br>
+*🕐 XX* <br>
+*📍XX* <br>
+
 ## Session 9 – [🔝](#all-sessions)
 *🗓 F, Nov 28, 2018* <br>
-*💬 Lectures: 63-66* <br>
-*🕐 5am-XX* <br>
+*💬 Lectures: 64* <br>
+*🕐 5am-6am* <br>
 *📍Home* <br>
 
 * ✅ (22 min - Lec 64) Testing for Browser Support with @supports<br>
@@ -43,10 +51,6 @@ Use [caniuse.com](www.caniuse.com) to check which properties are allowed in whic
 
 Note: the ```webkit``` prefix is for Safari.
 
-
-* ✅ (21 min - Lec 65) Setting up a Simple Build Process with NPM Scripts<br>
-* ✅ (14 min - Lec 66) Wrapping up the Natours Project: Final Considerations<br>
-
 ## Session 8 – [🔝](#all-sessions)
 *🗓 Th, Nov 27, 2018* <br>
 *💬 Lectures: 58-63* <br>
@@ -54,7 +58,7 @@ Note: the ```webkit``` prefix is for Safari.
 *📍Home* <br>
 
 * ⏰ Total Lecture Time: 80min = 1h20min<br>
-
+å
 * ✅ (13 min - Lec 58) Writing Media Queries – Layout, About and Features Sections<br>
 <!-- 5 min break -->
 * ✅ (21 min - Lec 59) Writing Media Queries - Tours, Stories and Booking Sections<br>
