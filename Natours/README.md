@@ -1,3 +1,5 @@
+```insert gif here```
+
 ## All Sessions
 * [Session 10](#session-10) - Lecture 65-66
 * [Session 9](#session-9) - Lecture 64
