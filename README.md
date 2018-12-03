@@ -36,10 +36,18 @@ Convert to GIF [here](https://ezgif.com/optimize)
 
 * ✅ (21 min - Lec 65) Setting up a Simple Build Process with NPM Scripts<br>
 
+Would be worth rewatching this [lecture](https://www.udemy.com/advanced-css-and-sass/learn/v4/t/lecture/8274568?start=0) when it comes to build time!
+
 What is a build process? It's a sequence of tasks that we perform automatically after we finish developing a product, or a certain feature of a product, and the result of the build process are one or more final files which are then ready for production, which means ready to be deployed to a web server.
+<br>
 ![build](/assets/session10/build.png)
 <br>
-Npm installed ```npm install --save concat``` (documentation [here](https://www.npmjs.com/package/concat))
+* ```npm install --save concat``` (documentation [here](https://www.npmjs.com/package/concat))
+* ```npm install autoprefixer --save-dev```
+* ```npm install postcss-cli --save-dev``` (in order for autoprefixer to work, we need to install postcss; these two packages help add prefixes that allows cross-browser compatibility)
+* ```npm install npm-run-all --save-dev``` allows us to run multiple scripts at once (check ```package.json```)
+* We also added a script in ```package.json``` that runs the *watch sass* script and *live-server* script both at once.
+
 
 * ✅ (14 min - Lec 66) Wrapping up the Natours Project: Final Considerations<br>
 
