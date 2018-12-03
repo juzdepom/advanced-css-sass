@@ -31,10 +31,16 @@ Convert to GIF [here](https://ezgif.com/optimize)
 ## Session 10 – [🔝](#all-sessions)
 *🗓 M, Dec 3, 2018* <br>
 *💬 Lectures: 64-XX* <br>
-*🕐 XX* <br>
+*🕐 4:50am-XX* <br>
 *📍Home* <br>
 
 * ✅ (21 min - Lec 65) Setting up a Simple Build Process with NPM Scripts<br>
+
+What is a build process? It's a sequence of tasks that we perform automatically after we finish developing a product, or a certain feature of a product, and the result of the build process are one or more final files which are then ready for production, which means ready to be deployed to a web server.
+![build](/assets/session10/build.png)
+<br>
+Npm installed ```npm install --save concat``` (documentation [here](https://www.npmjs.com/package/concat))
+
 * ✅ (14 min - Lec 66) Wrapping up the Natours Project: Final Considerations<br>
 
 
