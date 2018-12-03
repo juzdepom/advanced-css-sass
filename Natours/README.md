@@ -1,5 +1,5 @@
 ## All Sessions
-* [Session 10](#session-10) - Lecture XX
+* [Session 10](#session-10) - Lecture 65-66
 * [Session 9](#session-9) - Lecture 64
 * [Session 9](#session-9) - Lecture 58-63
 * [Session 8](#session-8) - Lecture 58-63
@@ -24,8 +24,8 @@ Convert to GIF [here](https://ezgif.com/optimize)
 
 ## Session 10 – [🔝](#all-sessions)
 *🗓 M, Dec 3, 2018* <br>
-*💬 Lectures: 64-XX* <br>
-*🕐 4:50am-XX* <br>
+*💬 Lectures: 64-66* <br>
+*🕐 4:50am-7am* <br>
 *📍Home* <br>
 
 * ✅ (21 min - Lec 65) Setting up a Simple Build Process with NPM Scripts<br>
@@ -42,9 +42,8 @@ What is a build process? It's a sequence of tasks that we perform automatically 
 * ```npm install npm-run-all --save-dev``` allows us to run multiple scripts at once (check ```package.json```)
 * We also added a script in ```package.json``` that runs the *watch sass* script and *live-server* script both at once.
 
-
 * ✅ (14 min - Lec 66) Wrapping up the Natours Project: Final Considerations<br>
-
+Added some rando stuff, like text highlighting and some flipping responsive stuff (didn't add that)
 
 
 ## Session 9 – [🔝](#all-sessions)
