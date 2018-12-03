@@ -29,10 +29,15 @@ Convert to GIF [here](https://ezgif.com/optimize)
 * Reduce size to 40% of original
 
 ## Session 10 – [🔝](#all-sessions)
-*🗓 S, Nov 20, 2018* <br>
+*🗓 M, Dec 3, 2018* <br>
 *💬 Lectures: 64-XX* <br>
 *🕐 XX* <br>
-*📍XX* <br>
+*📍Home* <br>
+
+* ✅ (21 min - Lec 65) Setting up a Simple Build Process with NPM Scripts<br>
+* ✅ (14 min - Lec 66) Wrapping up the Natours Project: Final Considerations<br>
+
+
 
 ## Session 9 – [🔝](#all-sessions)
 *🗓 F, Nov 28, 2018* <br>
