@@ -15,4 +15,4 @@
 * new module in CSS3 that makes it easy to align elements to one another, in different directions and orders;
 * the main idea behind flexbox is to give the container the ability to expand and to shrink elements to best use all the available space;
 * flexbox replaces float layouts, using less, and more readable and logical code
-* flexbox completely changes the way that we build one-dimensional layouts;
+* flexbox completely changes the way that we build one-dimensional layouts
