@@ -3,12 +3,12 @@
 ```insert gif here```
 
 ## All Sessions
-* [Session 1](#session-1) - Lecture 1-7
+* [Session 1](#session-1) - Lecture 67-73
 
 ## Session 1 – [🔝](#all-sessions)
 *🗓 W, Dec 5, 2018* <br>
-*💬 Lectures: 67-XX* <br>
-*🕐 5:40am-XX* <br>
+*💬 Lectures: 67-73* <br>
+*🕐 5:40am-7am* <br>
 *📍Home* <br>
 
 ### Flexbox
