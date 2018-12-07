@@ -13,7 +13,15 @@
 *🕐 4:05AM-XX* <br>
 *📍Home* <br>
 
-* ✅ (15 min - Lec 77) Building the Header - Part 3
+* ✅ (12 min - Lec 78) Building The Navigation - Part 1
+    * What we will learn:
+        * how to use ```scaleY``` and multiple transition properties with different settings to create a hover effect
+        * how and why to use the ```currentColor``` CSS variable;
+        * how to use some more advanced flexbox alignment techniques, including ```flex-direction, justify-content, align-items```
+
+* ✅ (15 min - Lec 77) Building The Header - Part 3
+
+<img src="/Trillo/screenshots/session3/lecture77.png" width="500">
 
 ## Session 2 – [🔝](#all-sessions)
 *🗓 Th, Dec 6, 2018* <br>
