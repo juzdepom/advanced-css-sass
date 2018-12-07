@@ -21,6 +21,7 @@
 
     * We're going to use [www.icomoon.io](https://icomoon.io/app/#/select) for free SVG icon images. Go [here](https://icomoon.io/app/#/select/library) to access icomoon's icon library. We're going to use ```Entypo+```
 ![lecture 75](/Trillo/screenshots/session2/lecture75.png)
+<img src="/Trillo/screenshots/session2/lecture75.png" width="200">
 
 * ✅ (12 min - Lec 74) Building the Overall Layout ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/2b8e59b9ed4976dba2a851bb2f67ec8c9a7348f6))<br>
 ![lecture 74](/Trillo/screenshots/session2/lecture74.png)
