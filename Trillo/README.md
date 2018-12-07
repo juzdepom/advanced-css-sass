@@ -12,7 +12,10 @@
 *🕐 7:15PM-XX* <br>
 *📍Library* <br>
 
-* ✅ (12 min - Lec 74) Building the Overall Layout<br>
+* ✅ (18 min - Lec 75) Building the Header - Part 1<br>
+* ✅ (12 min - Lec 74) Building the Overall Layout ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/2b8e59b9ed4976dba2a851bb2f67ec8c9a7348f6))<br>
+![lecture74](/Trillo/screenshots/session2/lecture74.png)
+
 
 ## Session 1 – [🔝](#all-sessions)
 *🗓 W, Dec 5, 2018* <br>
