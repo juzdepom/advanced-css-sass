@@ -13,7 +13,7 @@
 *🕐 4:05AM-XX* <br>
 *📍Home* <br>
 
-* ✅ (12 min - Lec 78) Building The Navigation - Part 1
+* ✅ (12 min - Lec 78) Building The Navigation - Part 1 ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/cf89a944f3db2e4f0e6a06e177f62b06d7c1916f))
     * What we will learn:
         * how to use ```scaleY``` and multiple transition properties with different settings to create a hover effect
         * how and why to use the ```currentColor``` CSS variable;
@@ -22,7 +22,7 @@
 <img src="/Trillo/screenshots/session3/lecture78.png" width="600">
 
 
-* ✅ (15 min - Lec 77) Building The Header - Part 3
+* ✅ (15 min - Lec 77) Building The Header - Part 3 ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/80595f49c7824a27bab6060408c5d1d3b6b64163))
 
 <img src="/Trillo/screenshots/session3/lecture77.png" width="900">
 
