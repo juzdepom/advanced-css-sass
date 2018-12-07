@@ -12,7 +12,7 @@
 *🕐 7:15PM-9PM* <br>
 *📍Library* <br>
 
-* ✅ (15 min - Lec 76) Building the Header - Part 2 ()<br>
+* ✅ (15 min - Lec 76) Building the Header - Part 2 ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/8ec3fe772a57c96bef7caa04bd5e44d352fbc18b))<br>
 
 <img src="/Trillo/screenshots/session2/lecture76.png" width="500">
 
