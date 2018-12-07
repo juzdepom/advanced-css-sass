@@ -12,7 +12,7 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
 ```insert gif here```
 
-* ## [Next Project]()
+* ## Nexter
 
 ```insert gif here```
 
