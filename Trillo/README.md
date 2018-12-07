@@ -12,7 +12,7 @@
 *🕐 7:15PM-XX* <br>
 *📍Library* <br>
 
-* ✅ (18 min - Lec 75) Building the Header - Part 1<br>
+* ✅ (18 min - Lec 75) Building the Header - Part 1 ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/35e7c6b6a2559fa7f34f4cb3283dde0027819abb))<br>
     * What you will learn:
         * Why to use SVG icons vs. font icons
         * How to find, generate and use SVG sprites in HTML
@@ -20,8 +20,11 @@
         * How to use more advanced flexbox alignment techniques, including ```justify-content, align-items, align-self, flex```
 
     * We're going to use [www.icomoon.io](https://icomoon.io/app/#/select) for free SVG icon images. Go [here](https://icomoon.io/app/#/select/library) to access icomoon's icon library. We're going to use ```Entypo+```
+![lecture 75](/Trillo/screenshots/session2/lecture75.png)
+
 * ✅ (12 min - Lec 74) Building the Overall Layout ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/2b8e59b9ed4976dba2a851bb2f67ec8c9a7348f6))<br>
-![lecture74](/Trillo/screenshots/session2/lecture74.png)
+![lecture 74](/Trillo/screenshots/session2/lecture74.png)
+<!-- <img src="Trillo/screenshots/session2/lecture74.png" width="200" height="200"> -->
 
 
 ## Session 1 – [🔝](#all-sessions)
