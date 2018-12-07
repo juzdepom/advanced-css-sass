@@ -19,9 +19,12 @@
         * how and why to use the ```currentColor``` CSS variable;
         * how to use some more advanced flexbox alignment techniques, including ```flex-direction, justify-content, align-items```
 
+<img src="/Trillo/screenshots/session3/lecture78.png" width="600">
+
+
 * ✅ (15 min - Lec 77) Building The Header - Part 3
 
-<img src="/Trillo/screenshots/session3/lecture77.png" width="500">
+<img src="/Trillo/screenshots/session3/lecture77.png" width="900">
 
 ## Session 2 – [🔝](#all-sessions)
 *🗓 Th, Dec 6, 2018* <br>
