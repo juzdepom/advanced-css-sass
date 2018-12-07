@@ -13,6 +13,14 @@
 *🕐 4:05AM-XX* <br>
 *📍Home* <br>
 
+* ✅ (17 min - Lec 79) Building The Navigation - Part 2
+
+    * We go to [cubic-bezier.com](www.cubic-bezier.com)
+    * Also added navigation animation using pseudo elements.
+    <img src="/Trillo/screenshots/session3/lecture79.png" width="250">
+
+
+
 * ✅ (12 min - Lec 78) Building The Navigation - Part 1 ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/cf89a944f3db2e4f0e6a06e177f62b06d7c1916f))
     * What we will learn:
         * how to use ```scaleY``` and multiple transition properties with different settings to create a hover effect
