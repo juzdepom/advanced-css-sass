@@ -3,14 +3,20 @@
 ```insert gif here```
 
 ## All Sessions
-* [Session 2](#session-2) - Lecture 74-XX
+* [Session 2](#session-2) - Lecture 74-76
 * [Session 1](#session-1) - Lecture 67-73
 
 ## Session 2 – [🔝](#all-sessions)
 *🗓 Th, Dec 6, 2018* <br>
 *💬 Lectures: 74-XX* <br>
-*🕐 7:15PM-XX* <br>
+*🕐 7:15PM-9PM* <br>
 *📍Library* <br>
+
+* ✅ (15 min - Lec 76) Building the Header - Part 2 ()<br>
+
+<img src="/Trillo/screenshots/session2/lecture76.png" width="500">
+
+
 
 * ✅ (18 min - Lec 75) Building the Header - Part 1 ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/35e7c6b6a2559fa7f34f4cb3283dde0027819abb))<br>
     * What you will learn:
