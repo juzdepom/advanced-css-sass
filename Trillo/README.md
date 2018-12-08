@@ -14,12 +14,18 @@
 *🕐 2:40AM-XX* <br>
 *📍Home* <br>
 
+* ✅ (13 min - Lec 82) Building The Description Section (1/2)
+    * You wil learn how to use flexbox, including ```flex-wrap``` to build a multi-column list; how ot use CSS masks with ```mask-image, mask-size```
+
+    <img src="/Trillo/screenshots/session4/lecture82.png" width="500">
+
+
 * ✅ (16 min - Lec 81) Building The Hotel Overview (2/2)
 
     <img src="/Trillo/screenshots/session4/lecture81.png" width="900">
 
 * ✅ (15 min - Lec 80) Building The Hotel Overview (1/2)
-    * You will learn here how to create an infinite animation, how to use ```margin: auto``` with flexbox, and why it's so powerful; how to continue to use flexbox properties for easy position and alignment.
+    * You will learn how to create an infinite animation, how to use ```margin: auto``` with flexbox, and why it's so powerful; how to continue to use flexbox properties for easy position and alignment.
 
     <img src="/Trillo/screenshots/session4/lecture80.png" width="900">
 
