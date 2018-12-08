@@ -16,6 +16,7 @@
 
 * ✅ (16 min - Lec 81) Building The Hotel Overview (2/2)
 
+    <img src="/Trillo/screenshots/session4/lecture81.png" width="900">
 
 * ✅ (15 min - Lec 80) Building The Hotel Overview (1/2)
     * You will learn here how to create an infinite animation, how to use ```margin: auto``` with flexbox, and why it's so powerful; how to continue to use flexbox properties for easy position and alignment.
