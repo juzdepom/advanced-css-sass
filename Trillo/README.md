@@ -3,18 +3,39 @@
 ```insert gif here```
 
 ## All Sessions
-* [Session 4](#session-4) - Lecture 80-XX
+* [Session 5](#session-5) - Lecture 86-XX
+* [Session 4](#session-4) - Lecture 80-85
 * [Session 3](#session-3) - Lecture 77-79
 * [Session 2](#session-2) - Lecture 74-76
 * [Session 1](#session-1) - Lecture 67-73
 
+## Session 5 – [🔝](#all-sessions)
+*🗓 S, Dec 8, 2018* <br>
+*💬 Lectures: 86-XX* <br>
+*🕐 6PM-XX* <br>
+*📍Home* <br>
+
+* ✅ (15 min - Lec 88) Wrapping up the Trillo Project: Final Considerations (Commit)
+
+
+* ✅ (17 min - Lec 87) Writing the Media Queries (2/2) (Commit)
+
+
+* ✅ (20 min - Lec 86) Writing the Media Queries (1/2) (Commit)
+
+    <img src="/Trillo/screenshots/session5/lecture86.png" width="250">
+
+
 ## Session 4 – [🔝](#all-sessions)
 *🗓 S, Dec 8, 2018* <br>
 *💬 Lectures: 80-XX* <br>
-*🕐 2:40AM-XX* <br>
+*🕐 2:40AM-7AM* <br>
 *📍Home* <br>
 
-* ✅ (17 min - Lec 85) Building The CTA Section
+
+
+
+* ✅ (17 min - Lec 85) Building The CTA Section ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/54f16e8227735c54177480dd17df7360ff9d4bed))
     * cool button animation! Will try to make tutorial about this!
 
     <img src="/Trillo/screenshots/session4/lecture85.png" width="600">
