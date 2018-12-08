@@ -8,17 +8,23 @@
 * [Session 2](#session-2) - Lecture 74-76
 * [Session 1](#session-1) - Lecture 67-73
 
-## Session 3 – [🔝](#all-sessions)
+## Session 4 – [🔝](#all-sessions)
 *🗓 S, Dec 8, 2018* <br>
 *💬 Lectures: 80-XX* <br>
 *🕐 2:40AM-XX* <br>
 *📍Home* <br>
 
+* ✅ (23 min - Lec 84) Building The User Reviews Section
+
+
+* ✅ (20 min - Lec 83) Building The Description Section (2/2)
+
+    <img src="/Trillo/screenshots/session4/lecture83.png" width="600">
+
 * ✅ (13 min - Lec 82) Building The Description Section (1/2)
     * You wil learn how to use flexbox, including ```flex-wrap``` to build a multi-column list; how ot use CSS masks with ```mask-image, mask-size```
 
     <img src="/Trillo/screenshots/session4/lecture82.png" width="500">
-
 
 * ✅ (16 min - Lec 81) Building The Hotel Overview (2/2)
 
