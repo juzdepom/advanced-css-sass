@@ -3,9 +3,26 @@
 ```insert gif here```
 
 ## All Sessions
-* [Session 3](#session-3) - Lecture 77-XX
+* [Session 4](#session-4) - Lecture 80-XX
+* [Session 3](#session-3) - Lecture 77-79
 * [Session 2](#session-2) - Lecture 74-76
 * [Session 1](#session-1) - Lecture 67-73
+
+## Session 3 – [🔝](#all-sessions)
+*🗓 S, Dec 8, 2018* <br>
+*💬 Lectures: 80-XX* <br>
+*🕐 2:40AM-XX* <br>
+*📍Home* <br>
+
+* ✅ (16 min - Lec 81) Building The Hotel Overview (2/2)
+
+
+* ✅ (15 min - Lec 80) Building The Hotel Overview (1/2)
+    * You will learn here how to create an infinite animation, how to use ```margin: auto``` with flexbox, and why it's so powerful; how to continue to use flexbox properties for easy position and alignment.
+
+    <img src="/Trillo/screenshots/session4/lecture80.png" width="900">
+
+
 
 ## Session 3 – [🔝](#all-sessions)
 *🗓 F, Dec 7, 2018* <br>
@@ -17,6 +34,7 @@
 
     * We go to [cubic-bezier.com](www.cubic-bezier.com)
     * Also added navigation animation using pseudo elements.
+
     <img src="/Trillo/screenshots/session3/lecture79.png" width="250">
 
 
