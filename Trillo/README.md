@@ -15,13 +15,16 @@
 *📍Home* <br>
 
 * ✅ (17 min - Lec 85) Building The CTA Section
+    * cool button animation! Will try to make tutorial about this!
 
-    <img src="/Trillo/screenshots/session4/lecture84.png" width="600">
+    <img src="/Trillo/screenshots/session4/lecture85.png" width="600">
 
 * ✅ (23 min - Lec 84) Building The User Reviews Section
     * z-index only works with ```position: relative``` property.
     * in order for ```position: absolute``` to work, you have to have ```position: relative``` on the parent element.
     * ```margin-right: auto``` has proven very useful for spacing.
+
+    <img src="/Trillo/screenshots/session4/lecture84.png" width="600">
 
 * ✅ (20 min - Lec 83) Building The Description Section (2/2)
 
