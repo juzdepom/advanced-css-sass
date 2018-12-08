@@ -14,8 +14,14 @@
 *🕐 2:40AM-XX* <br>
 *📍Home* <br>
 
-* ✅ (23 min - Lec 84) Building The User Reviews Section
+* ✅ (17 min - Lec 85) Building The CTA Section
 
+    <img src="/Trillo/screenshots/session4/lecture84.png" width="600">
+
+* ✅ (23 min - Lec 84) Building The User Reviews Section
+    * z-index only works with ```position: relative``` property.
+    * in order for ```position: absolute``` to work, you have to have ```position: relative``` on the parent element.
+    * ```margin-right: auto``` has proven very useful for spacing.
 
 * ✅ (20 min - Lec 83) Building The Description Section (2/2)
 
