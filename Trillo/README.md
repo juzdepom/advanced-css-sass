@@ -20,8 +20,10 @@
 
 * ✅ (17 min - Lec 87) Writing the Media Queries (2/2) (Commit)
 
+    <img src="/Trillo/screenshots/session5/lecture87.png" width="250">
 
-* ✅ (20 min - Lec 86) Writing the Media Queries (1/2) (Commit)
+
+* ✅ (20 min - Lec 86) Writing the Media Queries (1/2) ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/be94819499531db288beae09e97397ef3f806532))
 
     <img src="/Trillo/screenshots/session5/lecture86.png" width="250">
 
