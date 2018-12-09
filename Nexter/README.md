@@ -30,9 +30,9 @@
 * CSS Grid is a brand new module that brings a two-dimensional grid system to CSS for the first time;
 * CSS Grid replaces float layouts, using less, and more readable and logical CSS and HTML;
 * CSS Grid works perfectly together with Flexbox which is best to handle one-dimensional components and layouts;
-* CSS Grid completely changes teh way that we envision and build two dimensional layouts;
+* CSS Grid completely changes the way that we envision and build two dimensional layouts;
 
-    <img src="/Trillo/screenshots/session5/cssgridproperties.png" width="100">
+    <img src="/Trillo/screenshots/session1/cssgridproperties.png" width="100">
 <hr>
 
 * ✅ (2 min - Lec 91) Quick Setup for this Section
