@@ -15,7 +15,7 @@
 *🕐 6PM-XX* <br>
 *📍Home* <br>
 
-* ✅ (15 min - Lec 88) Wrapping up the Trillo Project: Final Considerations (Commit)
+* ✅ (15 min - Lec 88) Wrapping up the Trillo Project: Final Considerations ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/26a12b960c557fd222fce68cca62f23a1187b5ce))
     * Challenges!
         * Display some kind of user menu when hovering over the username in ```.user-nav```
         * Display a message menu when hovering over the chat icon in ```.user-nav``` (maybe like facebook)
