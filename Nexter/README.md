@@ -32,7 +32,7 @@
 * CSS Grid works perfectly together with Flexbox which is best to handle one-dimensional components and layouts;
 * CSS Grid completely changes the way that we envision and build two dimensional layouts;
 
-    <img src="/Trillo/screenshots/session1/cssgridproperties.png" width="100">
+    <img src="/Nexter/screenshots/session1/cssgridproperties.png" width="900">
 <hr>
 
 * ✅ (2 min - Lec 91) Quick Setup for this Section
