@@ -24,6 +24,7 @@
         * Mkae the page 100% responsive even for viewport sizes below 500px, maybe even responsive images
 
 * ✅ (17 min - Lec 87) Writing the Media Queries (2/2) ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/7ae2c3881162caa9f22b731c45e0f934c5753bb2))
+
     <img src="/Trillo/screenshots/session5/lecture87.png" width="250">
 
 * ✅ (20 min - Lec 86) Writing the Media Queries (1/2) ([Commit](https://github.com/juzdepom/advanced-css-sass/commit/be94819499531db288beae09e97397ef3f806532))
