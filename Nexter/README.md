@@ -20,13 +20,19 @@
 *🕐 3AM-XX* <br>
 *📍 Mom & Werner's Home* <br>
 
-* ✅ (25 min - Lec 107) Building the Overall Layout (Part 2)
+* ✅ (13 min - Lec 108) Building the Features Section (1/2)
+    * how and why to create grids inside of grids
+    * how to create a responsive component without media queries
+    * how to build a small component using CSS Grid
+
+
+* ✅ (25 min - Lec 107) Building the Overall Layout (2/2)
 
     * also created a codepen of basic layout (access [here](https://codepen.io/codebreakerjulia/pen/OrRoPL))
 
 ```insert 107.gif here```
 
-* ✅ (16 min - Lec 106) Building the Overall Layout (Part 1)
+* ✅ (16 min - Lec 106) Building the Overall Layout (1/2)
   * learn how to build a complex and modern layout using advanced CSS Grid techniques
   * How to choose different row and column track sizes for different types of content
 
