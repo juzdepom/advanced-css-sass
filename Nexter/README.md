@@ -20,10 +20,20 @@
 *🕐 3AM-XX* <br>
 *📍 Mom & Werner's Home* <br>
 
+* ✅ (18 min - Lec 110) Building The Story Section (1/2)
+
+
+* ✅ (21 min - Lec 109) Building the Features Section (2/2)
+
+<img src="/Nexter/screenshots/session3/109.png" width="350">
+
 * ✅ (13 min - Lec 108) Building the Features Section (1/2)
     * how and why to create grids inside of grids
     * how to create a responsive component without media queries
     * how to build a small component using CSS Grid
+
+<img src="/Nexter/screenshots/session3/108.png" width="350">
+
 
 
 * ✅ (25 min - Lec 107) Building the Overall Layout (2/2)
