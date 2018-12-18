@@ -13,26 +13,31 @@
 ## Set Up
 * after downloading this project, run ```npm install``` then ```npm start``` and the project will open up in the Firefox browser (has better tools for inspecting the CSS Grid)
 
-## Session 3
-[🔝 Table of Contents](#all-sessions)
+## Session 4
+[🔝 Table of Contents](#all-sessions)<br>
 *🗓 T, Dec 18, 2018* <br>
 *💬 Lectures: 105-XX* <br>
 *🕐 3AM-XX* <br>
 *📍 Mom & Werner's Home* <br>
 
 * ✅ (18 min - Lec 110) Building The Story Section (1/2)
+    * how to deal with overlapping grid items
+    * why images are special and behave differently than other grid items
+    * how to decide if flexbox is a better tool in certain situations
+
+<img src="/Nexter/screenshots/session3/110.png" width="500">
 
 
 * ✅ (21 min - Lec 109) Building the Features Section (2/2)
 
-<img src="/Nexter/screenshots/session3/109.png" width="350">
+<img src="/Nexter/screenshots/session3/109.png" width="500">
 
 * ✅ (13 min - Lec 108) Building the Features Section (1/2)
     * how and why to create grids inside of grids
     * how to create a responsive component without media queries
     * how to build a small component using CSS Grid
 
-<img src="/Nexter/screenshots/session3/108.png" width="350">
+<img src="/Nexter/screenshots/session3/108.png" width="500">
 
 
 
@@ -52,7 +57,7 @@
     * we're going to build the landing page of a fictional company called Nexter which sells luxury homes across the world.
 
 ## Session 3
-[🔝 Table of Contents](#all-sessions)
+[🔝 Table of Contents](#all-sessions)<br>
 *🗓 M, Dec 17, 2018* <br>
 *💬 Lectures: 93-104* <br>
 *🕐 All Day* <br>
@@ -77,7 +82,7 @@
 
 
 ## Session 2
-[🔝 Table of Contents](#all-sessions)
+[🔝 Table of Contents](#all-sessions)<br>
 *🗓 Su, Dec 9, 2018* <br>
 *💬 Lectures: 89-XX* <br>
 *🕐 8AM-XX* <br>
@@ -89,7 +94,7 @@
 
 
 ## Session 1
-[🔝 Table of Contents](#all-sessions)
+[🔝 Table of Contents](#all-sessions)<br>
 *🗓 S, Dec 8, 2018* <br>
 *💬 Lectures: 89-XX* <br>
 *🕐 7:30PM-XX* <br>
