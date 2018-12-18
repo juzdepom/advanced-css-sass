@@ -8,6 +8,9 @@
 * [Session 2](#session-2) - Lecture 92
 * [Session 1](#session-1) - Lecture 89-91
 
+## Set Up
+* after downloading this project, run ```npm install``` then ```npm start``` and the project will open up in the Firefox browser (has better tools for inspecting the CSS Grid)
+
 ## Session 3
 [🔝 Table of Contents](#all-sessions)
 *🗓 T, Dec 18, 2018* <br>
@@ -15,6 +18,7 @@
 *🕐 3AM-XX* <br>
 *📍 Mom & Werner's Home* <br>
 
+* ✅ (16 min - Lec 106) Building the Overall Layout (Part 1)
 * ✅ (12 min - Lec 105) Nexter: Project Overview and Setup
     * we're going to build the landing page of a fictional company called Nexter which sells luxury homes across the world.
 
