@@ -20,12 +20,16 @@
 *🕐 3AM-XX* <br>
 *📍 Mom & Werner's Home* <br>
 
+* ✅ (12 min - Lec 111) Building The Story Section (2/2)
+
+<img src="/Nexter/screenshots/session3/111.png" width="500">
+
 * ✅ (18 min - Lec 110) Building The Story Section (1/2)
     * how to deal with overlapping grid items
     * why images are special and behave differently than other grid items
     * how to decide if flexbox is a better tool in certain situations
 
-<img src="/Nexter/screenshots/session3/110.png" width="500">
+<img src="/Nexter/screenshots/session3/110.png" width="250">
 
 
 * ✅ (21 min - Lec 109) Building the Features Section (2/2)
