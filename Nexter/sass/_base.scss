@@ -38,4 +38,12 @@ body {
 .container {
     display: grid;
     grid-template-rows: 80vh min-content 40vw repeat(3, min-content);
+    //8rem for the sidebar, then we want 8 columns and we want each of these 8 columns to be between their minimum content and 140px
+    grid-template-columns: [sidebar-start] 8rem [sidebar-end full-start] minmax(6rem, 1fr) [center-start] repeat(8, [col-start] minmax(min-content, 14rem)[col-end]) [center-end] minmax(6rem, 1fr) [full-end];
+
+    //for dev purposes
+    & > * {
+        padding: 40px;
+        font-size: 3rem;
+    }
 }

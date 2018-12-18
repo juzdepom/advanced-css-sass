@@ -1,5 +1,7 @@
 # Nexter
 
+* Nexter [website](https://nexter.netlify.com/)
+
 ```insert gif here```
 
 ## All Sessions
@@ -17,6 +19,12 @@
 *💬 Lectures: 105-XX* <br>
 *🕐 3AM-XX* <br>
 *📍 Mom & Werner's Home* <br>
+
+* ✅ (25 min - Lec 107) Building the Overall Layout (Part 2)
+
+    * also created a codepen of basic layout (access [here](https://codepen.io/codebreakerjulia/pen/OrRoPL))
+
+```insert 107.gif here```
 
 * ✅ (16 min - Lec 106) Building the Overall Layout (Part 1)
   * learn how to build a complex and modern layout using advanced CSS Grid techniques
