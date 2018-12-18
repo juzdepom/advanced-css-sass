@@ -19,6 +19,11 @@
 *📍 Mom & Werner's Home* <br>
 
 * ✅ (16 min - Lec 106) Building the Overall Layout (Part 1)
+  * learn how to build a complex and modern layout using advanced CSS Grid techniques
+  * How to choose different row and column track sizes for different types of content
+
+<img src="/Nexter/screenshots/session3/106.png" width="350">
+
 * ✅ (12 min - Lec 105) Nexter: Project Overview and Setup
     * we're going to build the landing page of a fictional company called Nexter which sells luxury homes across the world.
 
