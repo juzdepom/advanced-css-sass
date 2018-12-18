@@ -7,8 +7,8 @@
 * [Session 2](#session-2) - Lecture 92
 * [Session 1](#session-1) - Lecture 89-91
 
-[🔝](#all-sessions)
 ## Session 2
+[🔝](#all-sessions)
 
 *🗓 M, Dec 17, 2018* <br>
 *💬 Lectures: 93-104* <br>
@@ -20,17 +20,21 @@
 <img src="/Nexter/screenshots/session3/1.png" width="200">
 
 * [CSS Grid Project (2)](https://codepen.io/codebreakerjulia/pen/yGJxPv)
+    * Implicit vs. Explicit Grids
+    * Aligning Grid Items
+    * Aligning Tracks
 
 <img src="/Nexter/screenshots/session3/2.png" width="200">
 
 * [CSS Grid Project (3)](https://codepen.io/codebreakerjulia/pen/roMNqw)
+    * Using min-content, max-content and the minmax() function
+    * Responsive Layouts with auto-fit and auto-fill
 
 <img src="/Nexter/screenshots/session3/3.png" width="200">
 
 
-
-[🔝](#all-sessions)
 ## Session 2
+[🔝](#all-sessions)
 
 *🗓 Su, Dec 9, 2018* <br>
 *💬 Lectures: 89-XX* <br>
@@ -41,8 +45,10 @@
     We're working on Codepen
     Go [here](https://codepen.io/jonasschmedtmann/) for Jonas' Codepen!
 
-[🔝](#all-sessions)
+
 ## Session 1
+[🔝](#all-sessions)
+
 *🗓 S, Dec 8, 2018* <br>
 *💬 Lectures: 89-XX* <br>
 *🕐 7:30PM-XX* <br>
