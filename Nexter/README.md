@@ -8,7 +8,7 @@
 * [Session 1](#session-1) - Lecture 89-91
 
 ## Session 2
-[🔝](#all-sessions)
+[🔝 Table of Contents](#all-sessions)
 
 *🗓 M, Dec 17, 2018* <br>
 *💬 Lectures: 93-104* <br>
@@ -33,8 +33,8 @@
 <img src="/Nexter/screenshots/session3/3.png" width="200">
 
 
-## Session 2
-[🔝](#all-sessions)
+## Session 3
+[🔝 Table of Contents](#all-sessions)
 
 *🗓 Su, Dec 9, 2018* <br>
 *💬 Lectures: 89-XX* <br>
@@ -47,7 +47,7 @@
 
 
 ## Session 1
-[🔝](#all-sessions)
+[🔝 Table of Contents](#all-sessions)
 
 *🗓 S, Dec 8, 2018* <br>
 *💬 Lectures: 89-XX* <br>
