@@ -20,6 +20,17 @@
 *🕐 3AM-XX* <br>
 *📍 Mom & Werner's Home* <br>
 
+* ✅ (19 min - Lec 113) Building The Homes Section (2/2)
+
+
+
+* ✅ (16 min - Lec 112) Building The Homes Section (1/2)
+
+<!-- <img src="/Nexter/screenshots/session3/112.gif" width="500"> -->
+
+```insert 112.gif here```
+
+
 * ✅ (12 min - Lec 111) Building The Story Section (2/2)
 
 <img src="/Nexter/screenshots/session3/111.png" width="500">
