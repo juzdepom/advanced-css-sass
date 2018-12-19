@@ -23,12 +23,14 @@
 
 * ✅ (16 min - Lec 117) Building the Header (2/2)
 
+    <img src="/Nexter/screenshots/session3/118.png" width="400">
+
 
 * ✅ (16 min - Lec 117) Building the Header (1/2)
     * how to manage vertical spacing in a responsive layout using CSS Grid techniques
     * how to use ::before and ::after as grid items
 
-    <img src="/Nexter/screenshots/session3/117.png" width="500">
+    <img src="/Nexter/screenshots/session3/117.png" width="400">
 
 * ✅ (13 min - Lec 116) Building the Footer
 
