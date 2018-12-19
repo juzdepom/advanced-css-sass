@@ -21,11 +21,12 @@
 *🕐 4:30AM-XX* <br>
 *📍 Mom & Werner's Home* <br>
 
+* ✅ (7 min - Lec 124) Wrapping up the Nexter Project: Final Considerations
+    * ```npm run build:css```
+
 * ✅ (9 min - Lec 123) Browser Support for CSS Grid
     * Go [here](https://caniuse.com/#feat=css-grid) to see which browsers support 'CSS Grids'
     * ```@supports(display: grid){ ...code here... }```
-    *
-
 
 * ✅ (17 min - Lec 122) Writing Media Queries (2/2)
     <img src="/Nexter/screenshots/session3/120-2.gif" alt="120 after gif" width="600">
