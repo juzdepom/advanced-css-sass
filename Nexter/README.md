@@ -16,34 +16,43 @@
 
 ## Session 5
 [🔝 Table of Contents](#all-sessions)<br>
-*🗓 T, Dec 18, 2018* <br>
+*🗓 W, Dec 19, 2018* <br>
 *💬 Lectures: 115-XX* <br>
 *🕐 4:30AM-XX* <br>
 *📍 Mom & Werner's Home* <br>
 
-* ✅ (17 min - Lec 121) Writing Media Queries (2/2)
+* ✅ (9 min - Lec 123) Browser Support for CSS Grid
+    * Go [here](https://caniuse.com/#feat=css-grid) to see which browsers support 'CSS Grids'
+    * ```@supports(display: grid){ ...code here... }```
+    *
 
 
-* ✅ (17 min - Lec 120) Writing Media Queries (1/2)
+* ✅ (17 min - Lec 122) Writing Media Queries (2/2)
+    <img src="/Nexter/screenshots/session3/120-2.gif" alt="120 after gif" width="600">
+
+
+* ✅ (17 min - Lec 121) Writing Media Queries (1/2)
     * After
     <img src="/Nexter/screenshots/session3/120-2.gif" alt="120 after gif" width="600">
 
     * Before
     <img src="/Nexter/screenshots/session3/120-1.gif" alt="120 before gif" width="600">
 
-* ✅ (11 min - Lec 119) Building the Realtor's Section
+* ✅ (11 min - Lec 120) Building the Realtor's Section
 
-    <img src="/Nexter/screenshots/session3/119.png" width="400">
+    <img src="/Nexter/screenshots/session3/119.png" width="250">
 
-* ✅ (16 min - Lec 118) Building the Header (2/2)
+* ✅ (16 min - Lec 119) Building the Header (2/2)
 
     <img src="/Nexter/screenshots/session3/118.png" width="400">
 
-* ✅ (16 min - Lec 117) Building the Header (1/2)
+* ✅ (16 min - Lec 118) Building the Header (1/2)
     * how to manage vertical spacing in a responsive layout using CSS Grid techniques
     * how to use ::before and ::after as grid items
 
     <img src="/Nexter/screenshots/session3/117.png" width="400">
+
+* ✅ (16 min - Lec 117) Building the Sidebar
 
 * ✅ (13 min - Lec 116) Building the Footer
 
@@ -75,9 +84,8 @@
 
 * ✅ (16 min - Lec 112) Building The Homes Section (1/2)
 
-<!-- <img src="/Nexter/screenshots/session3/112.gif" width="500"> -->
 
-```insert 112.gif here```
+<img src="/Nexter/screenshots/session3/112.gif" alt="112 gif" width="500">
 
 
 * ✅ (12 min - Lec 111) Building The Story Section (2/2)
@@ -109,7 +117,7 @@
 
     * also created a codepen of basic layout (access [here](https://codepen.io/codebreakerjulia/pen/OrRoPL))
 
-```insert 107.gif here```
+<img src="/Nexter/screenshots/session3/107.gif" alt="107 gif" width="500">
 
 * ✅ (16 min - Lec 106) Building the Overall Layout (1/2)
   * learn how to build a complex and modern layout using advanced CSS Grid techniques
