@@ -21,10 +21,19 @@
 *🕐 4:30AM-XX* <br>
 *📍 Mom & Werner's Home* <br>
 
+* ✅ (17 min - Lec 121) Writing Media Queries (2/2)
+
+
+* ✅ (17 min - Lec 120) Writing Media Queries (1/2)
+    * After
+    <img src="/Nexter/screenshots/session3/120-2.gif" alt="120 after gif" width="600">
+
+    * Before
+    <img src="/Nexter/screenshots/session3/120-1.gif" alt="120 before gif" width="600">
+
 * ✅ (11 min - Lec 119) Building the Realtor's Section
 
     <img src="/Nexter/screenshots/session3/119.png" width="400">
-
 
 * ✅ (16 min - Lec 118) Building the Header (2/2)
 
