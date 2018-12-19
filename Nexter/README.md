@@ -20,6 +20,10 @@
 *🕐 3AM-XX* <br>
 *📍 Mom & Werner's Home* <br>
 
+* ✅ (13 min - Lec 115) Building the Gallery (2/2)
+<img src="/Nexter/screenshots/session3/115.png" width="400">
+
+
 * ✅ (15 min - Lec 114) Building the Gallery (1/2)
     * how to create a complex grid-looking gallery
     * using ```object-fit``` together with images for grid items
