@@ -5,7 +5,8 @@
 ```insert gif here```
 
 ## All Sessions
-* [Session 4](#session-4) - Lecture 105-XX
+* [Session 5](#session-5) - Lecture 166-XX
+* [Session 4](#session-4) - Lecture 105-115
 * [Session 3](#session-3) - Lecture 93-104
 * [Session 2](#session-2) - Lecture 92
 * [Session 1](#session-1) - Lecture 89-91
@@ -13,15 +14,27 @@
 ## Set Up
 * after downloading this project, run ```npm install``` then ```npm start``` and the project will open up in the Firefox browser (has better tools for inspecting the CSS Grid)
 
+## Session 5
+[🔝 Table of Contents](#all-sessions)<br>
+*🗓 T, Dec 18, 2018* <br>
+*💬 Lectures: 115-XX* <br>
+*🕐 4:30AM-XX* <br>
+*📍 Mom & Werner's Home* <br>
+
+* ✅ (13 min - Lec 116) Building the Footer
+
+    <img src="/Nexter/screenshots/session3/116.png" width="400">
+
 ## Session 4
 [🔝 Table of Contents](#all-sessions)<br>
 *🗓 T, Dec 18, 2018* <br>
-*💬 Lectures: 105-XX* <br>
-*🕐 3AM-XX* <br>
+*💬 Lectures: 105-115* <br>
+*🕐 All Day* <br>
 *📍 Mom & Werner's Home* <br>
 
 * ✅ (13 min - Lec 115) Building the Gallery (2/2)
-<img src="/Nexter/screenshots/session3/115.png" width="400">
+
+    <img src="/Nexter/screenshots/session3/115.png" width="400">
 
 
 * ✅ (15 min - Lec 114) Building the Gallery (1/2)
